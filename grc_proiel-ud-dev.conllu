@@ -154,7 +154,7 @@
 12	ἐόντας	εἰμί#1	AUX	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	cop	_	ref=1.11.1
 13	ἑωυτῇ	ἑαυτοῦ	PRON	Pk	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	iobj	_	ref=1.11.1
 14	ἑτοίμους	ἕτοιμος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	15	xcomp	_	ref=1.11.1
-15	ποιησαμένη	ποιέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	16	advcl	_	ref=1.11.1
+15	ποιησαμένη	ποιέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	16	advcl	_	ref=1.11.1
 16	ἐκάλεε	καλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
 17	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	ref=1.11.1
 18	Γύγεα	Γύγης	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	obj:dir	_	ref=1.11.1
@@ -358,6 +358,14 @@
 14	τρόπῳ	τρόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	ref=1.11.4
 15	ἐπιχειρήσομεν	ἐπιχειρέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	11	ccomp	_	ref=1.11.4
 16	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	ref=1.11.4
+
+# source = Histories, Book 1, chapter 11
+# text = ἣ δὲ ὑπολαβοῦσα ἔφη
+# sent_id = 64448
+1	ἣ	ὁ	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=1.11.5
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.11.5
+3	ὑπολαβοῦσα	ὑπολαμβάνω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=1.11.5
+4	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.5
 
 # source = Histories, Book 1, chapter 11
 # text = ἐκ τοῦ αὐτοῦ μὲν χωρίου ἡ ὁρμή ἔσται ὅθεν περ καὶ ἐκεῖνος ἐμέ ἐπεδέξατο γυμνήν
@@ -1866,7 +1874,7 @@
 32	καί	καί	CCONJ	C-	_	24	cc	_	ref=1.111.5
 33	μιν	μιν	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obj:dir	_	ref=1.111.5
 34	Ἀστυάγης	Ἀστυάγης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	ref=1.111.5
-35	ἐντέλλεται	ἐντέλλω#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	24	conj	_	ref=1.111.5
+35	ἐντέλλεται	ἐντέλλω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	24	conj	_	ref=1.111.5
 36	ἀποκτεῖναι	ἀποκτείνω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	35	ccomp	_	ref=1.111.5
 
 # source = Histories, Book 1, chapter 111
@@ -3013,7 +3021,7 @@
 # sent_id = 65224
 1	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=1.117.4
 2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1.117.4
-3	ἐνετέλλεο	ἐντέλλω#1	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.117.4
+3	ἐνετέλλεο	ἐντέλλω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.117.4
 4	οὕτω	οὕτω(ς)	ADV	Df	_	3	advmod	_	ref=1.117.4
 
 # source = Histories, Book 1, chapter 117
@@ -3024,7 +3032,7 @@
 3	τῷδε	ὅδε	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=1.117.4
 4	κατὰ	κατά	ADP	R-	_	5	case	_	ref=1.117.4
 5	τάδε	ὅδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	ref=1.117.4
-6	ἐντειλάμενος	ἐντέλλω#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	1	advcl	_	ref=1.117.4
+6	ἐντειλάμενος	ἐντέλλω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	1	advcl	_	ref=1.117.4
 7	θεῖναὶ	τίθημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	5	acl	_	ref=1.117.4
 8	μιν	μιν	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	ref=1.117.4
 9	ἐς	εἰς	ADP	R-	_	11	case	_	ref=1.117.4
@@ -3565,7 +3573,7 @@
 6	δαπάνη	δαπάνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=5.35.1
 7	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=5.35.1
 8	στρατιῆς	στρατιά	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=5.35.1
-9	ἀπαιτεομένη	ἀπαιτέω	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	ref=5.35.1
+9	ἀπαιτεομένη	ἀπαιτέω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	ref=5.35.1
 10	ἀρρώδεέ	ὀρρωδέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=5.35.1
 11	τε	τε	CCONJ	C-	_	3	cc	_	ref=5.35.1
 12	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=5.35.1
@@ -3665,7 +3673,7 @@
 5	ἀπέπεμπε	ἀποπέμπω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.35.3
 6	ἐς	εἰς	ADP	R-	_	7	case	_	ref=5.35.3
 7	Μίλητον	Μίλητος	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=5.35.3
-8	ἐντειλάμενος	ἐντέλλω#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	5	advcl	_	ref=5.35.3
+8	ἐντειλάμενος	ἐντέλλω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	5	advcl	_	ref=5.35.3
 9	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	ref=5.35.3
 10	ἄλλο	ἄλλος	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	ref=5.35.3
 11	μὲν	μέν	ADV	Df	_	10	discourse	_	ref=5.35.3
@@ -4412,6 +4420,34 @@
 8	ὁπλίτην	ὁπλίτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=5.111.1
 9	ἵστασθαι	ἵστημι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	6	csubj:pass	_	ref=5.111.1
 10	ὀρθόν	ὀρθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	advmod	_	ref=5.111.1
+
+# source = Histories, Book 5, chapter 111
+# text = πυθόμενος ὦν ταῦτα ὁ Ὀνήσιλος ἦν γάρ οἱ ὑπασπιστὴς γένος μὲν Κὰρ τὰ δὲ πολέμια κάρτα δόκιμος καὶ ἄλλως λήματος πλέος εἶπε πρὸς τοῦτον
+# sent_id = 70566
+1	πυθόμενος	πυνθάνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	22	advcl	_	ref=5.111.1
+2	ὦν	οὖν	ADV	Df	_	22	discourse	_	ref=5.111.1
+3	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	1	obj:dir	_	ref=5.111.1
+4	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=5.111.1
+5	Ὀνήσιλος	Ὀνήσιλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	ref=5.111.1
+6	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	parataxis	_	ref=5.111.1
+7	γάρ	γάρ	ADV	Df	_	6	discourse	_	ref=5.111.1
+8	οἱ	οὗ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=5.111.1
+9	ὑπασπιστὴς	ὑπασπιστής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=5.111.1
+10	γένος	γένος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	ref=5.111.1
+11	μὲν	μέν	ADV	Df	_	12	discourse	_	ref=5.111.1
+12	Κὰρ	Κάρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	ref=5.111.1
+13	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	15	det	_	ref=5.111.1
+14	δὲ	δέ	ADV	Df	_	17	discourse	_	ref=5.111.1
+15	πολέμια	πολέμιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	17	advmod	_	ref=5.111.1
+16	κάρτα	κάρτα	ADV	Df	_	17	advmod	_	ref=5.111.1
+17	δόκιμος	δόκιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	ref=5.111.1
+18	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=5.111.1
+19	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	21	advmod	_	ref=5.111.1
+20	λήματος	λῆμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	21	iobj	_	ref=5.111.1
+21	πλέος	πλέως	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	ref=5.111.1
+22	εἶπε	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.111.1
+23	πρὸς	πρός	ADP	R-	_	24	case	_	ref=5.111.1
+24	τοῦτον	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	ref=5.111.1
 
 # source = Histories, Book 5, chapter 111
 # text = πυνθάνομαι τὸν Ἀρτυβίου ἵππον ἱστάμενον ὀρθὸν καὶ ποσὶ καὶ στόματι κατεργάζεσθαι πρὸς τὸν ἂν προσενειχθῇ
@@ -6925,7 +6961,7 @@
 # source = Histories, Book 7, chapter 96
 # text = εἵποντο δὲ ὡς οὐ στρατηγοὶ ἀλλ’ ὥσπερ οἱ ἄλλοι στρατευόμενοι δοῦλοι
 # sent_id = 155496
-1	εἵποντο	ἕπομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=7.96.2
+1	εἵποντο	ἕπομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=7.96.2
 2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=7.96.2
 3	ὡς	ὡς	ADV	Df	_	1	advcl	_	ref=7.96.2
 4	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=7.96.2
@@ -16872,6 +16908,43 @@
 12	μετὰ	μετά	ADP	R-	_	13	case	_	ref=REV_1.19
 13	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	11	obl	_	ref=REV_1.19
 
+# source = The Greek New Testament, Revelation 1
+# text = τὸ μυστήριον τῶν ἑπτὰ ἀστέρων οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσιν καὶ αἱ λυχνίαι αἱ ἑπτὰ ἑπτὰ ἐκκλησίαι εἰσίν
+# sent_id = 32972
+1	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	ref=REV_1.20
+2	μυστήριον	μυστήριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	ref=REV_1.20
+3	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	ref=REV_1.20
+4	ἑπτὰ	ἑπτά	NUM	Ma	_	5	nummod	_	ref=REV_1.20
+5	ἀστέρων	ἀστήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	ref=REV_1.20
+6	οὓς	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	7	obj:dir	_	ref=REV_1.20
+7	εἶδες	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=REV_1.20
+8	ἐπὶ	ἐπί	ADP	R-	_	10	case	_	ref=REV_1.20
+9	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=REV_1.20
+10	δεξιᾶς	δεξιός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	advmod	_	ref=REV_1.20
+11	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	det	_	ref=REV_1.20
+12	καὶ	καί	CCONJ	C-	_	2	cc	_	ref=REV_1.20
+13	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	15	det	_	ref=REV_1.20
+14	ἑπτὰ	ἑπτά	NUM	Ma	_	15	nummod	_	ref=REV_1.20
+15	λυχνίας	λυχνία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	conj	_	ref=REV_1.20
+16	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	ref=REV_1.20
+17	χρυσᾶς	χρύσεος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	15	nmod	_	ref=REV_1.20
+18	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	ref=REV_1.20
+19	ἑπτὰ	ἑπτά	NUM	Ma	_	20	nummod	_	ref=REV_1.20
+20	ἀστέρες	ἀστήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=REV_1.20
+21	ἄγγελοι	ἄγγελος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=REV_1.20
+22	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	24	det	_	ref=REV_1.20
+23	ἑπτὰ	ἑπτά	NUM	Ma	_	24	nummod	_	ref=REV_1.20
+24	ἐκκλησιῶν	ἐκκλησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	ref=REV_1.20
+25	εἰσιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	ref=REV_1.20
+26	καὶ	καί	CCONJ	C-	_	21	cc	_	ref=REV_1.20
+27	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	28	det	_	ref=REV_1.20
+28	λυχνίαι	λυχνία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	32	nsubj	_	ref=REV_1.20
+29	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	30	det	_	ref=REV_1.20
+30	ἑπτὰ	ἑπτά	NUM	Ma	_	28	nummod	_	ref=REV_1.20
+31	ἑπτὰ	ἑπτά	NUM	Ma	_	32	nummod	_	ref=REV_1.20
+32	ἐκκλησίαι	ἐκκλησία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	21	conj	_	ref=REV_1.20
+33	εἰσίν	εἰμί#1	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	ref=REV_1.20
+
 # source = The Greek New Testament, Revelation 2
 # text = Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας γράψον
 # sent_id = 32974
@@ -16882,6 +16955,30 @@
 5	Ἐφέσῳ	Ἔφεσος	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	ref=REV_2.1
 6	ἐκκλησίας	ἐκκλησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	ref=REV_2.1
 7	γράψον	γράφω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=REV_2.1
+
+# source = The Greek New Testament, Revelation 2
+# text = τάδε λέγει ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ αὐτοῦ ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν
+# sent_id = 32975
+1	τάδε	ὅδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=REV_2.1
+2	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=REV_2.1
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=REV_2.1
+4	κρατῶν	κρατέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	nsubj	_	ref=REV_2.1
+5	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=REV_2.1
+6	ἑπτὰ	ἑπτά	NUM	Ma	_	7	nummod	_	ref=REV_2.1
+7	ἀστέρας	ἀστήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj:dir	_	ref=REV_2.1
+8	ἐν	ἐν	ADP	R-	_	10	case	_	ref=REV_2.1
+9	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=REV_2.1
+10	δεξιᾷ	δεξιός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	obl	_	ref=REV_2.1
+11	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=REV_2.1
+12	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=REV_2.1
+13	περιπατῶν	περιπατέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	appos	_	ref=REV_2.1
+14	ἐν	ἐν	ADP	R-	_	15	case	_	ref=REV_2.1
+15	μέσῳ	μέσος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	13	obl	_	ref=REV_2.1
+16	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	18	det	_	ref=REV_2.1
+17	ἑπτὰ	ἑπτά	NUM	Ma	_	18	nummod	_	ref=REV_2.1
+18	λυχνιῶν	λυχνία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	ref=REV_2.1
+19	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	20	det	_	ref=REV_2.1
+20	χρυσῶν	χρύσεος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	18	nmod	_	ref=REV_2.1
 
 # source = The Greek New Testament, Revelation 2
 # text = οἶδα τὰ ἔργα σου καὶ τὸν κόπον καὶ τὴν ὑπομονήν σου καὶ ὅτι οὐ δύνῃ βαστάσαι κακούς καὶ ἐπείρασας τοὺς λέγοντας ἑαυτοὺς ἀποστόλους καὶ οὐκ εἰσίν καὶ εὗρες αὐτοὺς ψευδεῖς
