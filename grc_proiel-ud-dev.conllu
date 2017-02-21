@@ -1,3 +1,4 @@
+# newdoc id = Histories,_Book_1,_chapter_10
 # source = Histories, Book 1, chapter 10
 # text = ὃ μὲν δὴ ὡς οὐκ ἐδύνατο διαφυγεῖν ἦν ἕτοιμος
 # sent_id = 64428
@@ -125,6 +126,7 @@
 18	μεγάλην	μέγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	ref=1.10.3
 19	φέρει	φέρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.10.3
 
+# newdoc id = Histories,_Book_1,_chapter_11
 # source = Histories, Book 1, chapter 11
 # text = τότε μὲν δὴ οὕτω οὐδέν δηλώσασα ἡσυχίην εἶχε
 # sent_id = 64435
@@ -395,6 +397,7 @@
 4	ἐπιχείρησις	ἐπιχείρησις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=1.11.5
 5	ἔσται	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.11.5
 
+# newdoc id = Histories,_Book_1,_chapter_12
 # source = Histories, Book 1, chapter 12
 # text = ὡς δὲ ἤρτυσαν τὴν ἐπιβουλήν νυκτὸς γενομένης οὐ γὰρ ἐμετίετο ὁ Γύγης οὐδέ οἱ ἦν ἀπαλλαγὴ οὐδεμία ἀλλ’ ἔδεε ἤ αὐτὸν ἀπολωλέναι ἢ Κανδαύλεα εἵπετο ἐς τὸν θάλαμον τῇ γυναικί καί μιν ἐκείνη ἐγχειρίδιον δοῦσα κατακρύπτει ὑπὸ τὴν αὐτὴν θύρην
 # sent_id = 64449
@@ -475,6 +478,7 @@
 31	τριμέτρῳ	τρίμετρος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	30	amod	_	ref=1.12.2
 32	ἐπεμνήσθη	ἐπιμιμνήσκομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	11	advcl	_	ref=1.12.2
 
+# newdoc id = Histories,_Book_1,_chapter_13
 # source = Histories, Book 1, chapter 13
 # text = ἔσχε δὲ τὴν βασιληίην καὶ ἐκρατύνθη ἐκ τοῦ ἐν Δελφοῖσι χρηστηρίου
 # sent_id = 64451
@@ -592,6 +596,7 @@
 14	δὴ	δή	ADV	Df	_	15	discourse	_	ref=1.13.2
 15	ἐπετελέσθη	ἐπιτελέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	advcl	_	ref=1.13.2
 
+# newdoc id = Histories,_Book_1,_chapter_14
 # source = Histories, Book 1, chapter 14
 # text = τὴν μὲν δὴ τυραννίδα οὕτω ἔσχον οἱ Μερμνάδαι τοὺς Ἡρακλείδας ἀπελόμενοι
 # sent_id = 64456
@@ -773,6 +778,7 @@
 18	ἀναθέντος	ἀνατίθημι	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	nmod	_	ref=1.14.3
 19	ἐπωνυμίην	ἐπωνυμία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	ref=1.14.3
 
+# newdoc id = Histories,_Book_1,_chapter_15
 # source = Histories, Book 1, chapter 15
 # text = ἐσέβαλε μέν νυν στρατιὴν καὶ οὗτος ἐπείτε ἦρξε ἔς τε Μίλητον καὶ ἐς Σμύρνην καὶ Κολοφῶνος τὸ ἄστυ εἷλε
 # sent_id = 64463
@@ -872,6 +878,7 @@
 31	ἀκροπόλιος	ἀκρόπολις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	29	iobj	_	ref=1.15.1
 32	εἷλον	αἱρέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=1.15.1
 
+# newdoc id = Histories,_Book_1,_chapter_16
 # source = Histories, Book 1, chapter 16
 # text = Ἄρδυος δὲ βασιλεύσαντος ἑνὸς δέοντα πεντήκοντα ἔτεα ἐξεδέξατο Σαδυάττης ὁ Ἄρδυος καὶ ἐβασίλευσε ἔτεα δυώδεκα Σαδυάττεω δὲ Ἀλυάττης
 # sent_id = 64466
@@ -954,6 +961,7 @@
 9	ἀξιαπηγητότατα	ἀξιαφήγητος	ADV	Df	Degree=Sup	10	advmod	_	ref=1.16.2
 10	τάδε	ὅδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	3	appos	_	ref=1.16.2
 
+# newdoc id = Histories,_Book_1,_chapter_17
 # source = Histories, Book 1, chapter 17
 # text = ἐπολέμησε Μιλησίοισι παραδεξάμενος τὸν πόλεμον παρὰ τοῦ πατρός
 # sent_id = 64470
@@ -1113,6 +1121,7 @@
 29	σίνεσθαι	σίνομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	27	acl	_	ref=1.17.3
 30	ἐσβάλλων	εἰσβάλλω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	advcl	_	ref=1.17.3
 
+# newdoc id = Histories,_Book_1,_chapter_18
 # source = Histories, Book 1, chapter 18
 # text = ταῦτα ποιέων ἐπολέμεε ἔτεα ἕνδεκα ἐν τοῖσι τρώματα μεγάλα διφάσια Μιλησίων ἐγένετο ἔν τε Λιμενηίῳ χώρης τῆς σφετέρης μαχεσαμένων καὶ ἐν Μαιάνδρου πεδίῳ
 # sent_id = 64478
@@ -1254,6 +1263,7 @@
 12	πόλεμον	πόλεμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obj:dir	_	ref=1.18.3
 13	συνδιήνεικαν	συνδιαφέρω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.18.3
 
+# newdoc id = Histories,_Book_1,_chapter_19
 # source = Histories, Book 1, chapter 19
 # text = τῷ δὲ δυωδεκάτῳ ἔτεϊ ληίου ἐμπιπραμένου ὑπὸ τῆς στρατιῆς συνηνείχθη τι τοιόνδε γενέσθαι πρῆγμα
 # sent_id = 64485
@@ -1383,6 +1393,7 @@
 23	ἐν	ἐν	ADP	R-	_	24	case	_	ref=1.19.3
 24	Ἀσσησῷ	Ἀσσησός	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	14	nmod	_	ref=1.19.3
 
+# newdoc id = Histories,_Book_1,_chapter_110
 # source = Histories, Book 1, chapter 110
 # text = ταῦτα εἶπε καὶ αὐτίκα ἄγγελον ἔπεμπε ἐπὶ τῶν βουκόλων τῶν Ἀστυάγεος τὸν ἠπίστατο νομάς τε ἐπιτηδεοτάτας νέμοντα καὶ ὄρεα θηριωδέστατα
 # sent_id = 65156
@@ -1583,6 +1594,7 @@
 4	τέταγμαι	τάσσω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1.110.3
 5	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	ref=1.110.3
 
+# newdoc id = Histories,_Book_1,_chapter_111
 # source = Histories, Book 1, chapter 111
 # text = ταῦτα ἀκούσας ὁ βουκόλος καὶ ἀναλαβὼν τὸ παιδίον ἤιε τὴν αὐτὴν ὀπίσω ὁδὸν καὶ ἀπικνέεται ἐς τὴν ἔπαυλιν
 # sent_id = 65165
@@ -1885,6 +1897,7 @@
 3	ὅδε	ὅδε	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1.111.5
 4	ἐστί	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1.111.5
 
+# newdoc id = Histories,_Book_1,_chapter_112
 # source = Histories, Book 1, chapter 112
 # text = ἅμα δὲ ταῦτα ἔλεγε ὁ βουκόλος καὶ ἐκκαλύψας ἀπεδείκνυε
 # sent_id = 65178
@@ -2067,6 +2080,7 @@
 13	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1.112.3
 14	ψυχήν	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	ref=1.112.3
 
+# newdoc id = Histories,_Book_1,_chapter_113
 # source = Histories, Book 1, chapter 113
 # text = κάρτα τε ἔδοξε τῷ βουκόλῳ πρὸς τὰ παρεόντα εὖ λέγειν ἡ γυνή καὶ αὐτίκα ἐποίεε ταῦτα
 # sent_id = 65188
@@ -2235,6 +2249,7 @@
 19	Κῦρον	Κῦρος	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	ref=1.113.3
 20	θεμένη	τίθημι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	8	advcl	_	ref=1.113.3
 
+# newdoc id = Histories,_Book_1,_chapter_114
 # source = Histories, Book 1, chapter 114
 # text = καὶ ὅτε ἦν δεκαέτης ὁ παῖς πρῆγμα ἐς αὑτὸν τοιόνδε γενόμενον ἐξέφηνέ μιν
 # sent_id = 65193
@@ -2482,6 +2497,7 @@
 35	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	36	det	_	ref=1.114.5
 36	ὤμους	ὦμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	32	obj:dir	_	ref=1.114.5
 
+# newdoc id = Histories,_Book_1,_chapter_115
 # source = Histories, Book 1, chapter 115
 # text = ἀκούσας δὲ καὶ ἰδὼν Ἀστυάγης θέλων τιμωρῆσαι τῷ παιδὶ τιμῆς τῆς Ἀρτεμβάρεος εἵνεκα μετεπέμπετο τόν τε βουκόλον καὶ τὸν παῖδα
 # sent_id = 65200
@@ -2639,6 +2655,7 @@
 11	τοὶ	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	iobj	_	ref=1.115.3
 12	πάρειμι	πάρειμι#1	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.115.3
 
+# newdoc id = Histories,_Book_1,_chapter_116
 # source = Histories, Book 1, chapter 116
 # text = ταῦτα λέγοντος τοῦ παιδὸς τὸν Ἀστυάγεα ἐσήιε ἀνάγνωσις αὐτοῦ καὶ οἱ ὅ τε χαρακτὴρ τοῦ προσώπου προσφέρεσθαι ἐδόκεε ἐς ἑωυτὸν καὶ ἡ ὑπόκρισις ἐλευθερωτέρη εἶναι ὅ τε χρόνος τῆς ἐκθέσιος τῇ ἡλικίῃ τοῦ παιδὸς ἐδόκεε συμβαίνειν
 # sent_id = 65209
@@ -2858,6 +2875,7 @@
 18	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	ccomp	_	ref=1.116.5
 19	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	ref=1.116.5
 
+# newdoc id = Histories,_Book_1,_chapter_117
 # source = Histories, Book 1, chapter 117
 # text = Ἀστυάγης δὲ τοῦ μὲν βουκόλου τὴν ἀληθείην ἐκφήναντος λόγον ἤδη καὶ ἐλάσσω ἐποιέετο
 # sent_id = 65217
@@ -3096,6 +3114,7 @@
 13	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=1.117.5
 14	παῖς	παῖς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=1.117.5
 
+# newdoc id = Histories,_Book_1,_chapter_118
 # source = Histories, Book 1, chapter 118
 # text = Ἅρπαγος μὲν δὴ τὸν ἰθὺν ἔφαινε λόγον
 # sent_id = 65228
@@ -3224,6 +3243,7 @@
 16	ἐπὶ	ἐπί	ADP	R-	_	17	case	_	ref=1.118.2
 17	δεῖπνον	δεῖπνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	ref=1.118.2
 
+# newdoc id = Histories,_Book_1,_chapter_119
 # source = Histories, Book 1, chapter 119
 # text = Ἅρπαγος μὲν ὡς ἤκουσε ταῦτα προσκυνήσας καὶ μεγάλα ποιησάμενος ὅτι τε ἡ ἁμαρτὰς οἱ ἐς δέον ἐγεγόνεε καὶ ὅτι ἐπὶ τύχῃσι χρηστῇσι ἐπὶ δεῖπνον ἐκέκλητο ἤιε ἐς τὰ οἰκία
 # sent_id = 65232
@@ -3549,6 +3569,7 @@
 9	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	ref=1.119.7
 10	πάντα	πᾶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	8	obj:dir	_	ref=1.119.7
 
+# newdoc id = Histories,_Book_5,_chapter_35
 # source = Histories, Book 5, chapter 35
 # text = Ἀρισταγόρης δὲ οὐκ εἶχε τὴν ὑπόσχεσιν τῷ Ἀρταφρένεϊ ἐκτελέσαι
 # sent_id = 70032
@@ -3756,6 +3777,7 @@
 12	ἔτι	ἔτι	ADV	Df	_	11	advmod	_	ref=5.35.4
 13	ἐλογίζετο	λογίζομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=5.35.4
 
+# newdoc id = Histories,_Book_5,_chapter_36
 # source = Histories, Book 5, chapter 36
 # text = Ἱστιαῖος μέν νυν ταῦτα διανοεύμενος ἀπέπεμπε τὸν ἄγγελον
 # sent_id = 70040
@@ -3989,6 +4011,7 @@
 27	ἐπιπλέοντας	ἐπιπλέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	ref=5.36.4
 28	στρατηγούς	στρατηγός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	21	obj:dir	_	ref=5.36.4
 
+# newdoc id = Histories,_Book_5,_chapter_37
 # source = Histories, Book 5, chapter 37
 # text = ἀποπεμφθέντος δὲ Ἰητραγόρεω κατ’ αὐτὸ τοῦτο καὶ συλλαβόντος δόλῳ Ὀλίατον Ἰβανώλλιος Μυλασσέα καὶ Ἱστιαῖον Τύμνεω Τερμερέα καὶ Κώην Ἐρξάνδρου τῷ Δαρεῖος Μυτιλήνην ἐδωρήσατο καὶ Ἀρισταγόρην Ἡρακλείδεω Κυμαῖον καὶ ἄλλους συχνούς οὕτω δὴ ἐκ τοῦ ἐμφανέος ὁ Ἀρισταγόρης ἀπεστήκεε πᾶν ἐπὶ Δαρείῳ μηχανώμενος
 # sent_id = 70050
@@ -4108,6 +4131,7 @@
 31	εἴη	εἰμί#1	AUX	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	ref=5.37.2
 32	ἕκαστος	ἕκαστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	nsubj	_	ref=5.37.2
 
+# newdoc id = Histories,_Book_5,_chapter_38
 # source = Histories, Book 5, chapter 38
 # text = Κώην μέν νυν Μυτιληναῖοι ἐπείτε τάχιστα παρέλαβον ἐξαγαγόντες κατέλευσαν
 # sent_id = 70052
@@ -4193,6 +4217,7 @@
 7	μεγάλης	μέγας	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	ref=5.38.2
 8	ἐξευρεθῆναι	ἐξευρίσκω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	1	ccomp	_	ref=5.38.2
 
+# newdoc id = Histories,_Book_5,_chapter_39
 # source = Histories, Book 5, chapter 39
 # text = τῆς δὲ Σπάρτης Ἀναξανδρίδης μὲν ὁ Λέοντος οὐκέτι περιεὼν ἐβασίλευε ἀλλὰ ἐτετελευτήκεε
 # sent_id = 70056
@@ -4345,6 +4370,7 @@
 2	σφι	σφεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=5.39.2
 3	πείσεσθαι	πείθω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Mid	0	root	_	ref=5.39.2
 
+# newdoc id = Histories,_Book_5,_chapter_110
 # source = Histories, Book 5, chapter 110
 # text = Ἴωνες μὲν τούτοισι ἀμείψαντο
 # sent_id = 70562
@@ -4407,6 +4433,7 @@
 8	ἀντετάσσετο	ἀντιτάσσω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=5.110.1
 9	Ὀνήσιλος	Ὀνήσιλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=5.110.1
 
+# newdoc id = Histories,_Book_5,_chapter_111
 # source = Histories, Book 5, chapter 111
 # text = ἤλαυνε δὲ ἵππον ὁ Ἀρτύβιος δεδιδαγμένον πρὸς ὁπλίτην ἵστασθαι ὀρθόν
 # sent_id = 70565
@@ -4618,6 +4645,7 @@
 11	στήσεσθαι	ἵστημι	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Mid	4	ccomp	_	ref=5.111.4
 12	ἐναντίον	ἐναντίον	ADP	R-	_	7	case	_	ref=5.111.4
 
+# newdoc id = Histories,_Book_5,_chapter_112
 # source = Histories, Book 5, chapter 112
 # text = ταῦτα εἶπε καὶ μεταυτίκα συνέμισγε τὰ στρατόπεδα πεζῇ καὶ νηυσί
 # sent_id = 70576
@@ -4726,6 +4754,7 @@
 19	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	ref=5.112.2
 20	πόδας	πούς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	obj:dir	_	ref=5.112.2
 
+# newdoc id = Histories,_Book_5,_chapter_113
 # source = Histories, Book 5, chapter 113
 # text = Ἀρτύβιος μὲν δὴ ὁ στρατηγὸς τῶν Περσέων ὁμοῦ τῷ ἵππῳ πίπτει αὐτοῦ ταύτῃ
 # sent_id = 70582
@@ -4855,6 +4884,7 @@
 42	τυράννων	τύραννος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	43	nmod	_	ref=5.113.2
 43	μάλιστα	μάλα	ADV	Df	Degree=Sup	41	advmod	_	ref=5.113.2
 
+# newdoc id = Histories,_Book_5,_chapter_114
 # source = Histories, Book 5, chapter 114
 # text = Ὀνησίλου μέν νυν Ἀμαθούσιοι ὅτι σφέας ἐπολιόρκησε ἀποταμόντες τὴν κεφαλὴν ἐκόμισαν ἐς Ἀμαθοῦντα καί μιν ἀνεκρέμασαν ὑπὲρ τῶν πυλέων
 # sent_id = 70588
@@ -4933,6 +4963,7 @@
 30	ἄμεινον	ἀγαθός	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	31	nsubj	_	ref=5.114.2
 31	συνοίσεσθαι	συμφέρω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Mid,Pass	17	ccomp	_	ref=5.114.2
 
+# newdoc id = Histories,_Book_5,_chapter_115
 # source = Histories, Book 5, chapter 115
 # text = Ἀμαθούσιοι μέν νυν ἐποίευν ταῦτα καὶ τὸ μέχρι ἐμεῦ
 # sent_id = 70591
@@ -5016,6 +5047,7 @@
 20	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	21	det	_	ref=5.115.2
 21	Πέρσαι	Πέρσης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	ref=5.115.2
 
+# newdoc id = Histories,_Book_5,_chapter_116
 # source = Histories, Book 5, chapter 116
 # text = Κύπριοι μὲν δὴ ἐνιαυτὸν ἐλεύθεροι γενόμενοι αὖτις ἐκ νέης κατεδεδούλωντο
 # sent_id = 70594
@@ -5074,6 +5106,7 @@
 39	πόλις	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	37	obj:dir	_	ref=5.116.1
 40	ἐπόρθεον	πορθέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.116.1
 
+# newdoc id = Histories,_Book_5,_chapter_117
 # source = Histories, Book 5, chapter 117
 # text = Δαυρίσης μὲν τραπόμενος πρὸς τὰς ἐν Ἑλλησπόντῳ πόλις εἷλε μὲν Δάρδανον εἷλε δὲ Ἄβυδόν τε καὶ Περκώτην καὶ Λάμψακον καὶ Παισόν
 # sent_id = 70596
@@ -5147,6 +5180,7 @@
 10	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=5.117.1
 11	Καρίην	Καρία	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=5.117.1
 
+# newdoc id = Histories,_Book_5,_chapter_118
 # source = Histories, Book 5, chapter 118
 # text = καί κως ταῦτα τοῖσι Καρσὶ ἐξαγγέλθη πρότερον ἢ τὸν Δαυρίσην ἀπικέσθαι
 # sent_id = 70599
@@ -5299,6 +5333,7 @@
 34	ποταμὸν	ποταμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	35	obl	_	ref=5.118.3
 35	ἐσπίπτοντες	εἰσπίπτω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	advcl	_	ref=5.118.3
 
+# newdoc id = Histories,_Book_5,_chapter_119
 # source = Histories, Book 5, chapter 119
 # text = μετὰ δὲ παρεόντων καὶ διαβάντων τὸν Μαίανδρον τῶν Περσέων ἐνθαῦτα ἐπὶ τῷ Μαρσύῃ ποταμῷ συνέβαλόν τε τοῖσι Πέρσῃσι οἱ Κᾶρες καὶ μάχην ἐμαχέσαντο ἰσχυρὴν καὶ ἐπὶ χρόνον πολλόν
 # sent_id = 70604
@@ -5419,6 +5454,7 @@
 21	ἄμεινον	ἀγαθός	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	22	obj:dir	_	ref=5.119.2
 22	πρήξουσι	πράσσω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	ccomp	_	ref=5.119.2
 
+# newdoc id = Histories,_Book_6,_chapter_1
 # source = Histories, Book 6, chapter 1
 # text = Ἀρισταγόρης μέν νυν Ἰωνίην ἀποστήσας οὕτω τελευτᾷ
 # sent_id = 70632
@@ -5531,6 +5567,7 @@
 2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=6.1.2
 3	Ἀρισταγόρης	Ἀρισταγόρης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=6.1.2
 
+# newdoc id = Histories,_Book_6,_chapter_2
 # source = Histories, Book 6, chapter 2
 # text = Ἀρταφρένης μὲν ταῦτα ἐς τὴν ἀπόστασιν ἔχοντα εἶπε
 # sent_id = 70638
@@ -5622,6 +5659,7 @@
 12	ἔλυσαν	λύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.2.2
 13	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj:dir	_	ref=6.2.2
 
+# newdoc id = Histories,_Book_6,_chapter_3
 # source = Histories, Book 6, chapter 3
 # text = ἐνθαῦτα δὴ εἰρωτώμενος ὑπὸ τῶν Ἰώνων ὁ Ἱστιαῖος κατ’ ὅ τι προθύμως οὕτω ἐπέστειλε τῷ Ἀρισταγόρῃ ἀπίστασθαι ἀπὸ βασιλέος καὶ κακὸν τοσοῦτον εἴη Ἴωνας ἐξεργασμένος τὴν μὲν γενομένην αὐτοῖσι αἰτίην οὐ μάλα ἐξέφαινε
 # sent_id = 70643
@@ -5700,6 +5738,7 @@
 8	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	ref=6.3.1
 9	Ἴωνας	Ἴων	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obj:dir	_	ref=6.3.1
 
+# newdoc id = Histories,_Book_6,_chapter_4
 # source = Histories, Book 6, chapter 4
 # text = μετὰ δὲ ὁ Ἱστιαῖος δι’ ἀγγέλου ποιεύμενος Ἑρμίππου ἀνδρὸς Ἀταρνίτεω τοῖσι ἐν Σάρδισι ἐοῦσι Περσέων ἔπεμπε βυβλία ὡς προλελεσχηνευμένων αὐτῷ ἀποστάσιος πέρι
 # sent_id = 70645
@@ -5797,6 +5836,7 @@
 9	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=6.4.2
 10	Ἀρταφρένης	Ἀρταφρένης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=6.4.2
 
+# newdoc id = Histories,_Book_6,_chapter_5
 # source = Histories, Book 6, chapter 5
 # text = περὶ Σάρδις μὲν δὴ ἐγίνετο ταραχή
 # sent_id = 70649
@@ -5930,6 +5970,7 @@
 19	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	cop	_	ref=6.5.2
 20	πείθεσθαι	πείθω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	18	ccomp	_	ref=6.5.2
 
+# newdoc id = Histories,_Book_6,_chapter_6
 # source = Histories, Book 6, chapter 6
 # text = Ἱστιαῖος μέν νυν καὶ Μυτιληναῖοι ἐποίευν ταῦτα
 # sent_id = 70656
@@ -6006,6 +6047,7 @@
 10	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=6.6.1
 11	Αἰγύπτιοι	Αἰγύπτιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	conj	_	ref=6.6.1
 
+# newdoc id = Histories,_Book_6,_chapter_7
 # source = Histories, Book 6, chapter 7
 # text = οἳ μὲν δὴ ἐπὶ τὴν Μίλητον καὶ τὴν ἄλλην Ἰωνίην ἐστρατεύοντο
 # sent_id = 70660
@@ -6096,6 +6138,7 @@
 11	Μιλησίων	Μιλήσιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	9	nmod	_	ref=6.7.1
 12	κειμένη	κεῖμαι	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	5	acl	_	ref=6.7.1
 
+# newdoc id = Histories,_Book_6,_chapter_8
 # source = Histories, Book 6, chapter 8
 # text = μετὰ δὲ ταῦτα πεπληρωμένῃσι τῇσι νηυσὶ παρῆσαν οἱ Ἴωνες σὺν δέ σφι καὶ Αἰολέων ὅσοι τὴν Λέσβον νέμονται
 # sent_id = 70663
@@ -6229,6 +6272,7 @@
 12	τριηκόσιαι	τριακόσιοι	NUM	Ma	Case=Nom|Gender=Fem|Number=Plur	8	conj	_	ref=6.8.2
 13	τριήρεες	τριήρης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	xcomp	_	ref=6.8.2
 
+# newdoc id = Histories,_Book_6,_chapter_9
 # source = Histories, Book 6, chapter 9
 # text = αὗται μὲν Ἰώνων ἦσαν τῶν δὲ βαρβάρων τὸ πλῆθος τῶν νεῶν ἦσαν ἑξακόσιαι
 # sent_id = 70671
@@ -6451,6 +6495,7 @@
 44	ἄλλοισι	ἄλλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	45	iobj	_	ref=6.9.4
 45	παραδώσομεν	παραδίδωμι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	22	conj	_	ref=6.9.4
 
+# newdoc id = Histories,_Book_7,_chapter_90
 # source = Histories, Book 7, chapter 90
 # text = οὗτοι μὲν οὕτω ἐστάλατο
 # sent_id = 72059
@@ -6542,6 +6587,7 @@
 25	Κύπριοι	Κύπριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	26	nsubj	_	ref=7.90.1
 26	λέγουσι	λέγω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	ref=7.90.1
 
+# newdoc id = Histories,_Book_7,_chapter_91
 # source = Histories, Book 7, chapter 91
 # text = Κίλικες δὲ ἑκατὸν παρείχοντο νέας
 # sent_id = 72062
@@ -6644,6 +6690,7 @@
 12	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=7.91.1
 13	Κάλχαντι	Κάλχας	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	conj	_	ref=7.91.1
 
+# newdoc id = Histories,_Book_7,_chapter_92
 # source = Histories, Book 7, chapter 92
 # text = λύκιοι δὲ παρείχοντο νέας πεντήκοντα θωρηκοφόροι τε ἐόντες καὶ κνημιδοφόροι
 # sent_id = 72068
@@ -6721,6 +6768,7 @@
 9	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=7.92.1
 10	ἐπωνυμίην	ἐπωνυμία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=7.92.1
 
+# newdoc id = Histories,_Book_7,_chapter_93
 # source = Histories, Book 7, chapter 93
 # text = Δωριέες δὲ οἱ ἐκ τῆς Ἀσίης τριήκοντα παρείχοντο νέας ἔχοντές τε Ἑλληνικὰ ὅπλα καὶ γεγονότες ἀπὸ Πελοποννήσου
 # sent_id = 72071
@@ -6787,6 +6835,7 @@
 10	λόγων	λόγος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	ref=7.93.1
 11	εἴρηται	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=7.93.1
 
+# newdoc id = Histories,_Book_7,_chapter_94
 # source = Histories, Book 7, chapter 94
 # text = Ἴωνες δὲ ἑκατὸν νέας παρείχοντο ἐσκευασμένοι ὡς Ἕλληνες
 # sent_id = 72074
@@ -6799,6 +6848,7 @@
 7	ὡς	ὡς	ADV	Df	_	6	advcl	_	ref=7.94.1
 8	Ἕλληνες	Ἕλλην	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=7.94.1
 
+# newdoc id = Histories,_Book_7,_chapter_95
 # source = Histories, Book 7, chapter 95
 # text = νησιῶται δὲ ἑπτακαίδεκα παρείχοντο νέας ὡπλισμένοι ὡς Ἕλληνες
 # sent_id = 72076
@@ -6878,6 +6928,7 @@
 5	Δωριέων	Δωριεύς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	ref=7.95.2
 6	ἄποικοι	ἄποικος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=7.95.2
 
+# newdoc id = Histories,_Book_7,_chapter_96
 # source = Histories, Book 7, chapter 96
 # text = ἐπεβάτευον δὲ ἐπὶ πασέων τῶν νεῶν Πέρσαι καὶ Μῆδοι καὶ Σαάκαι
 # sent_id = 72081
@@ -6996,6 +7047,7 @@
 18	εἰρέαταί	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=7.96.2
 19	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	18	obl:agent	_	ref=7.96.2
 
+# newdoc id = Histories,_Book_7,_chapter_97
 # source = Histories, Book 7, chapter 97
 # text = τοῦ δὲ ναυτικοῦ ἐστρατήγεον Ἀριαβίγνης τε ὁ Δαρείου καὶ Πρηξάσπης ὁ Ἀσπαθίνεω καὶ Μεγάβαζος ὁ Μεγαβάτεω καὶ Ἀχαιμένης ὁ Δαρείου τῆς μὲν Ἰάδος τε καὶ Καρικῆς στρατιῆς Ἀριαβίγνης ὁ Δαρείου τε παῖς καὶ τῆς Γοβρύεω θυγατρός
 # sent_id = 72086
@@ -7080,6 +7132,7 @@
 15	ἐφάνη	φαίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=7.97.1
 16	τρισχίλια	τρισχίλιοι	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	15	xcomp	_	ref=7.97.1
 
+# newdoc id = Histories,_Book_7,_chapter_98
 # source = Histories, Book 7, chapter 98
 # text = τῶν δὲ ἐπιπλεόντων μετά γε τοὺς στρατηγοὺς οἵδε ἦσαν ὀνομαστότατοι Σιδώνιος Τετράμνηστος Ἀνύσου καὶ Τύριος Ματτὴν Σιρώμου καὶ Ἀράδιος Μέρβαλος Ἀγβάλου καὶ Κίλιξ Συέννεσις Ὠρομέδοντος καὶ Λύκιος Κυβερνίσκος Σίκα καὶ Κύπριοι Γόργος τε ὁ Χέρσιος καὶ Τιμῶναξ ὁ Τιμαγόρεω καὶ Καρῶν Ἱστιαῖός τε ὁ Τύμνεω καὶ Πίγρης ὁ Ὑσσελδώμου καὶ Δαμασίθυμος ὁ Κανδαύλεω
 # sent_id = 72089
@@ -7137,6 +7190,7 @@
 52	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	51	det	_	ref=7.98.1
 53	Κανδαύλεω	Κανδαύλης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	51	nmod	_	ref=7.98.1
 
+# newdoc id = Histories,_Book_7,_chapter_99
 # source = Histories, Book 7, chapter 99
 # text = τῶν μέν νυν ἄλλων οὐ παραμέμνημαι ταξιάρχων ὡς οὐκ ἀναγκαζόμενος Ἀρτεμισίης δὲ τῆς μάλιστα θῶμα ποιεῦμαι ἐπὶ τὴν Ἑλλάδα στρατευσαμένης γυναικός
 # sent_id = 72090
@@ -7289,6 +7343,7 @@
 6	στρατὸς	στρατός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	ref=7.99.3
 7	εἴρηται	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=7.99.3
 
+# newdoc id = The_Greek_New_Testament,_Matthew_5
 # source = The Greek New Testament, Matthew 5
 # text = Ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος
 # sent_id = 14759
@@ -8405,6 +8460,7 @@
 11	τέλειός	τέλειος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	advcl	_	ref=MATT_5.48
 12	ἐστιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	ref=MATT_5.48
 
+# newdoc id = The_Greek_New_Testament,_Mark_5
 # source = The Greek New Testament, Mark 5
 # text = Καὶ ἦλθον εἰς τὸ πέραν τῆς θαλάσσης εἰς τὴν χώραν τῶν Γερασηνῶν
 # sent_id = 6711
@@ -9360,6 +9416,7 @@
 12	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	ref=MARK_5.43
 13	φαγεῖν	ἐσθίω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=MARK_5.43
 
+# newdoc id = The_Greek_New_Testament,_Luke_5
 # source = The Greek New Testament, Luke 5
 # text = Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ καὶ ἴδεν δύο πλοιάρια ἑστῶτα παρὰ τὴν λίμνην
 # sent_id = 20378
@@ -10407,6 +10464,7 @@
 3	χρηστός	χρηστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_5.39
 4	ἐστιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=LUKE_5.39
 
+# newdoc id = The_Greek_New_Testament,_Luke_15
 # source = The Greek New Testament, Luke 15
 # text = Ἦσαν δὲ αὐτῷ ἐγγίζοντες πάντες οἱ τελῶναι καὶ οἱ ἁμαρτωλοὶ ἀκούειν αὐτοῦ
 # sent_id = 21170
@@ -11138,6 +11196,7 @@
 17	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=LUKE_15.32
 18	εὑρέθη	εὑρίσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	conj	_	ref=LUKE_15.32
 
+# newdoc id = The_Greek_New_Testament,_John_5
 # source = The Greek New Testament, John 5
 # text = Μετὰ ταῦτα ἦν ἡ ἑορτὴ τῶν Ἰουδαίων καὶ ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα
 # sent_id = 22146
@@ -12205,6 +12264,7 @@
 11	ῥήμασιν	ῥῆμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	12	iobj	_	ref=JOHN_5.47
 12	πιστεύσετε	πιστεύω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_5.47
 
+# newdoc id = The_Greek_New_Testament,_Acts_5
 # source = The Greek New Testament, Acts 5
 # text = Ἀνὴρ δέ τις Ἀνανίας ὀνόματι σὺν Σαπφείρῃ τῇ γυναικὶ αὐτοῦ ἐπώλησεν κτῆμα καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς συνειδυίης καὶ τῆς γυναικός καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν
 # sent_id = 25098
@@ -13231,6 +13291,7 @@
 16	Χριστόν	Χριστός	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	14	obj:dir	_	ref=ACTS_5.42
 17	Ἰησοῦν	Ἰησοῦς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	flat:name	_	ref=ACTS_5.42
 
+# newdoc id = The_Greek_New_Testament,_Acts_6
 # source = The Greek New Testament, Acts 6
 # text = Ἐν δὲ ταῖς ἡμέραις ταύταις πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς τῶν Ἑλληνιστῶν πρὸς τοὺς Ἑβραίους ὅτι παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ αἱ χῆραι αὐτῶν
 # sent_id = 25147
@@ -13577,6 +13638,7 @@
 16	πρόσωπον	πρόσωπον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	obj:dir	_	ref=ACTS_6.15
 17	ἀγγέλου	ἄγγελος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=ACTS_6.15
 
+# newdoc id = The_Greek_New_Testament,_Acts_9
 # source = The Greek New Testament, Acts 9
 # text = Ὁ δὲ Σαῦλος ἔτι ἐμπνέων ἀπειλῆς καὶ φόνου εἰς τοὺς μαθητὰς τοῦ κυρίου προσελθὼν τῷ ἀρχιερεῖ ᾐτήσατο παρ’ αὐτοῦ ἐπιστολὰς εἰς Δαμασκὸν πρὸς τὰς συναγωγάς ὅπως ἄν τινας εὕρῃ ὄντας τῆς ὁδοῦ ἄνδρας τε καὶ γυναῖκας δεδεμένους ἀγάγῃ εἰς Ἱερουσαλήμ
 # sent_id = 25274
@@ -14635,6 +14697,7 @@
 10	Σίμωνι	Σίμων	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	appos	_	ref=ACTS_9.43
 11	βυρσεῖ	βυρσεύς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	appos	_	ref=ACTS_9.43
 
+# newdoc id = The_Greek_New_Testament,_Acts_10
 # source = The Greek New Testament, Acts 10
 # text = Ἀνὴρ δέ τις ἐν Καισαρίᾳ ὀνόματι Κορνήλιος ἑκατοντάρχης ἐκ σπείρης τῆς καλουμένης Ἰταλικῆς εὐσεβὴς καὶ φοβούμενος τὸν θεὸν σὺν παντὶ τῷ οἴκῳ αὐτοῦ ποιῶν ἐλεημοσύνας πολλὰς τῷ λαῷ καὶ δεόμενος τοῦ θεοῦ διαπαντός εἶδεν ἐν ὁράματι φανερῶς ὡσεὶ περὶ ὥραν ἐνάτην τῆς ἡμέρας ἄγγελον τοῦ θεοῦ εἰσελθόντα πρὸς αὐτὸν καὶ εἰπόντα αὐτῷ
 # sent_id = 25330
@@ -15749,6 +15812,7 @@
 5	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	ref=ACTS_10.48
 6	τινάς	τὶς	DET	Px	Case=Acc|Gender=Fem,Masc|Number=Plur	5	det	_	ref=ACTS_10.48
 
+# newdoc id = The_Greek_New_Testament,_Romans_1
 # source = The Greek New Testament, Romans 1
 # text = Παῦλος δοῦλος Χριστοῦ Ἰησοῦ κλητὸς ἀπόστολος ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις περὶ τοῦ υἱοῦ αὐτοῦ τοῦ γενομένου ἐκ σπέρματος Δαυεὶδ κατὰ σάρκα τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν δι’ οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν ὑπὲρ τοῦ ὀνόματος αὐτοῦ ἐν οἷς ἐστε καὶ ὑμεῖς κλητοὶ Ἰησοῦ Χριστοῦ πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ κλητοῖς ἁγίοις
 # sent_id = 26030
@@ -16387,6 +16451,7 @@
 22	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	_	ref=ROM_1.32
 23	πράσσουσιν	πράσσω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	iobj	_	ref=ROM_1.32
 
+# newdoc id = The_Greek_New_Testament,_Revelation_1
 # source = The Greek New Testament, Revelation 1
 # text = Ἀποκάλυψις Ἰησοῦ Χριστοῦ ἣν ἔδωκεν αὐτῷ ὁ θεός δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ Ἰωάννῃ ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ ὅσα ἴδεν
 # sent_id = 32954
@@ -16945,6 +17010,7 @@
 32	ἐκκλησίαι	ἐκκλησία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	21	conj	_	ref=REV_1.20
 33	εἰσίν	εἰμί#1	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	ref=REV_1.20
 
+# newdoc id = The_Greek_New_Testament,_Revelation_2
 # source = The Greek New Testament, Revelation 2
 # text = Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας γράψον
 # sent_id = 32974
