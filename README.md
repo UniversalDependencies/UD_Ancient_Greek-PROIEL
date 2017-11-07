@@ -30,7 +30,7 @@ Includes text: yes
 Genre: bible nonfiction
 Lemmas: converted from manual
 UPOS: converted from manual
-XPOS: converted from manual
+XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
 Contributors: Dag Haug
