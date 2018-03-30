@@ -15835,9 +15835,9 @@
 12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	ref=ROM_2.16
 13	εὐαγγέλιόν	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=ROM_2.16
 14	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	det	_	ref=ROM_2.16
-15	διὰ	διά	ADP	R-	_	17	case	_	ref=ROM_2.16
-16	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	ref=ROM_2.16
-17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=ROM_2.16
+15	διὰ	διά	ADP	R-	_	16	case	_	ref=ROM_2.16
+16	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=ROM_2.16
+17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	flat:name	_	ref=ROM_2.16
 
 # source = The Greek New Testament, Romans 2
 # text = εἰ δὲ σὺ Ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ καὶ γινώσκεις τὸ θέλημα καὶ δοκιμάζεις τὰ διαφέροντα κατηχούμενος ἐκ τοῦ νόμου πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν φῶς τῶν ἐν σκότει παιδευτὴν ἀφρόνων διδάσκαλον νηπίων ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ ὁ οὖν διδάσκων ἕτερον σεαυτὸν οὐ διδάσκεις
