@@ -1,11 +1,11 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 95f84696ecc537764b7772395d073132bd715b77
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 08:54:01 2018 +0200
+Date:   Wed Apr 11 09:21:53 2018 +0200
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit a068751fdfbf961fae3ab4733db95c2bb2a78525
-Merge: 15f9418 8d53a43
+commit b8b7e603c58a0aa7edbb0f90b04f0f55513a7fa0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Apr 11 09:12:56 2018 +0200
 Size: counted 214015 of 214015 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7320922120467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 160397 out of 214015 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 0 bugs.
+Udapi: found 6483 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 214015 words.
 Genres: found 2 out of 14 known.
 validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.776814737828126) = 0.199183266109776
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
-(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
+(weight=0.307692307692308) * (score{udapi}=0.69707730766535) = 0.214485325435492
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.791135140414591) * (availability=1) * (validity=1) = 0.791135140414591
-STARS = 4
-UD_Ancient_Greek-PROIEL	0.791135140414591	4
+(TOTAL score=0.697928158157776) * (availability=1) * (validity=1) = 0.697928158157776
+STARS = 3.5
+UD_Ancient_Greek-PROIEL	0.697928158157776	3.5
