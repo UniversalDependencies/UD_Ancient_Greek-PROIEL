@@ -7837,7 +7837,7 @@
 # text = εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν οὐ πολλῷ μᾶλλον ὑμᾶς ὀλιγόπιστοι
 # sent_id = 14864
 1	εἰ	εἰ	SCONJ	G-	_	17	mark	_	ref=MATT_6.30
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=MATT_6.30
+2	δὲ	δέ	ADV	Df	_	17	discourse	_	ref=MATT_6.30
 3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=MATT_6.30
 4	χόρτον	χόρτος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	ref=MATT_6.30
 5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=MATT_6.30
@@ -12873,7 +12873,7 @@
 # text = ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον
 # sent_id = 22303
 1	ἐὰν	ἐάν	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=JOHN_6.62
+2	οὖν	οὖν	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
 3	θεωρῆτε	θεωρέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
 4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JOHN_6.62
 5	υἱὸν	υἱός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=JOHN_6.62

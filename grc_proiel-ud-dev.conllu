@@ -521,7 +521,7 @@
 26	λοιποὶ	λοιπός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	27	amod	_	ref=1.13.1
 27	Λυδοί	Λυδός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	23	conj	_	ref=1.13.1
 28	ἤν	ἐάν	SCONJ	G-	_	32	mark	_	ref=1.13.1
-29	μὲν	μέν	ADV	Df	_	28	discourse	_	ref=1.13.1
+29	μὲν	μέν	ADV	Df	_	32	discourse	_	ref=1.13.1
 30	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	31	det	_	ref=1.13.1
 31	χρηστήριον	χρηστήριον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	ref=1.13.1
 32	ἀνέλῃ	ἀναιρέω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	advcl	_	ref=1.13.1
@@ -533,7 +533,7 @@
 38	δὲ	δέ	ADV	Df	_	39	discourse	_	ref=1.13.1
 39	βασιλεύειν	βασιλεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	acl	_	ref=1.13.1
 40	ἤν	ἐάν	SCONJ	G-	_	42	mark	_	ref=1.13.1
-41	δὲ	δέ	ADV	Df	_	40	discourse	_	ref=1.13.1
+41	δὲ	δέ	ADV	Df	_	42	discourse	_	ref=1.13.1
 42	μή	μή	ADV	Df	Polarity=Neg	43	advmod	_	ref=1.13.1
 43	ἀποδοῦναι	ἀποδίδωμι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	39	conj	_	ref=1.13.1
 44	ὀπίσω	ὀπίσω	ADV	Df	_	43	advmod	_	ref=1.13.1
@@ -9989,7 +9989,7 @@
 # text = ἵνα δὲ εἰδῆτε ὅτι ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας
 # sent_id = 20420
 1	ἵνα	ἵνα	SCONJ	G-	_	3	mark	_	ref=LUKE_5.24
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=LUKE_5.24
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=LUKE_5.24
 3	εἰδῆτε	οἶδα	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.24
 4	ὅτι	ὅτι	SCONJ	G-	_	10	mark	_	ref=LUKE_5.24
 5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=LUKE_5.24
