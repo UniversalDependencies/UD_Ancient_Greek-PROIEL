@@ -11787,7 +11787,7 @@
 # source = The Greek New Testament, John 5
 # text = ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ἀκούσουσιν τῆς φωνῆς αὐτοῦ καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς οἱ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως
 # sent_id = 59959
-1	ὅτι	ὅτι	SCONJ	G-	_	2	advmod	_	ref=JOHN_5.28
+1	ὅτι	ὅτι	SCONJ	G-	_	2	mark	_	ref=JOHN_5.28
 2	ἔρχεται	ἔρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JOHN_5.28
 3	ὥρα	ὥρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=JOHN_5.28
 4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=JOHN_5.28
