@@ -1369,7 +1369,7 @@
 9	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.19.3
 10	χρήσειν	χράω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=1.19.3
 11	πρὶν	πρίν	SCONJ	G-	_	17	mark	_	ref=1.19.3
-12	ἢ	ἤ	ADV	Df	_	11	advmod	_	ref=1.19.3
+12	ἢ	ἤ	ADV	Df	_	17	advmod	_	ref=1.19.3
 13	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=1.19.3
 14	νηὸν	ναός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	ref=1.19.3
 15	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=1.19.3
@@ -3237,21 +3237,21 @@
 8	μεγάλα	μέγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	advmod	_	ref=1.119.1
 9	ποιησάμενος	ποιέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	6	conj	_	ref=1.119.1
 10	ὅτι	ὅτι	SCONJ	G-	_	17	mark	_	ref=1.119.1
-11	τε	τε	CCONJ	C-	_	10	cc	_	ref=1.119.1
+11	τε	τε	CCONJ	C-	_	17	cc	_	ref=1.119.1
 12	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1.119.1
 13	ἁμαρτὰς	ἁμαρτάς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	ref=1.119.1
 14	οἱ	οὗ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	ref=1.119.1
 15	ἐς	εἰς	ADP	R-	_	16	case	_	ref=1.119.1
 16	δέον	δέον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	xcomp	_	ref=1.119.1
 17	ἐγεγόνεε	γίγνομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1.119.1
-18	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1.119.1
+18	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1.119.1
 19	ὅτι	ὅτι	SCONJ	G-	_	25	mark	_	ref=1.119.1
 20	ἐπὶ	ἐπί	ADP	R-	_	21	case	_	ref=1.119.1
 21	τύχῃσι	τύχη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	25	obl	_	ref=1.119.1
 22	χρηστῇσι	χρηστός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	21	amod	_	ref=1.119.1
 23	ἐπὶ	ἐπί	ADP	R-	_	24	case	_	ref=1.119.1
 24	δεῖπνον	δεῖπνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	25	obl	_	ref=1.119.1
-25	ἐκέκλητο	καλέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass	10	conj	_	ref=1.119.1
+25	ἐκέκλητο	καλέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass	17	conj	_	ref=1.119.1
 26	ἤιε	εἶμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.119.1|LId=2
 27	ἐς	εἰς	ADP	R-	_	29	case	_	ref=1.119.1
 28	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	29	det	_	ref=1.119.1
@@ -6431,25 +6431,25 @@
 24	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	ref=6.9.4
 25	μάχῃ	μάχη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	ref=6.9.4
 26	ἐξανδραποδιεῦνται	ἐξανδραποδίζω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	16	ccomp	_	ref=6.9.4
-27	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=6.9.4
+27	καὶ	καί	CCONJ	C-	_	26	cc	_	ref=6.9.4
 28	ὡς	ὡς	SCONJ	G-	_	33	mark	_	ref=6.9.4
 29	σφέων	σφεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	det	_	ref=6.9.4
 30	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	31	det	_	ref=6.9.4
 31	παῖδας	παῖς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	33	obj	_	ref=6.9.4
 32	ἐκτομίας	ἐκτομίας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	33	xcomp	_	ref=6.9.4
-33	ποιήσομεν	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	22	conj	_	ref=6.9.4
+33	ποιήσομεν	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	26	conj	_	ref=6.9.4
 34	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	36	det	_	ref=6.9.4
 35	δὲ	δέ	ADV	Df	_	36	discourse	_	ref=6.9.4
 36	παρθένους	παρθένος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	33	conj	_	ref=6.9.4
 37	ἀνασπάστους	ἀνασπαστός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	36	orphan	_	ref=6.9.4
 38	ἐς	εἰς	ADP	R-	_	39	case	_	ref=6.9.4
 39	Βάκτρα	Βάκτρα	PROPN	Ne	Case=Acc|Gender=Neut|Number=Plur	37	obl	_	ref=6.9.4
-40	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=6.9.4
+40	καὶ	καί	CCONJ	C-	_	26	cc	_	ref=6.9.4
 41	ὡς	ὡς	SCONJ	G-	_	45	mark	_	ref=6.9.4
 42	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	43	det	_	ref=6.9.4
 43	χώρην	χώρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	45	obj	_	ref=6.9.4
 44	ἄλλοισι	ἄλλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	45	iobj	_	ref=6.9.4
-45	παραδώσομεν	παραδίδωμι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	22	conj	_	ref=6.9.4
+45	παραδώσομεν	παραδίδωμι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	26	conj	_	ref=6.9.4
 
 # source = Histories, Book 7, chapter 90
 # text = οὗτοι μὲν οὕτω ἐστάλατο
@@ -11569,7 +11569,7 @@
 7	ἑαυτοῦ	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	ref=JOHN_5.19
 8	οὐδέν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=JOHN_5.19
 9	ἂν	ἐάν	SCONJ	G-	_	12	mark	_	ref=JOHN_5.19
-10	μή	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_5.19
+10	μή	μή	ADV	Df	Polarity=Neg	12	advmod	_	ref=JOHN_5.19
 11	τι	τίς	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	15	obj	_	ref=JOHN_5.19
 12	βλέπῃ	βλέπω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_5.19
 13	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=JOHN_5.19
