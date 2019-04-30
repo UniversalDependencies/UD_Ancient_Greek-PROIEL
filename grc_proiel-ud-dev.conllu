@@ -7647,7 +7647,7 @@
 # text = ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν
 # sent_id = 14782
 1	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.19
-2	ἐὰν	ἐάν	SCONJ	G-	_	4	advmod	_	ref=MATT_5.19
+2	ἐὰν	ἄν	ADV	Df	_	4	advmod	_	ref=MATT_5.19
 3	οὖν	οὖν	ADV	Df	_	4	discourse	_	ref=MATT_5.19
 4	λύσῃ	λύω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	nsubj:pass	_	ref=MATT_5.19
 5	μίαν	εἷς	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=MATT_5.19
