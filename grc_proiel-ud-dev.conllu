@@ -10474,7 +10474,7 @@
 14	καταλείπει	καταλείπω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_15.4
 15	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	16	det	_	ref=LUKE_15.4
 16	ἐνενήκοντα	ἐνενήκοντα	NUM	Ma	_	14	obj	_	ref=LUKE_15.4
-17	ἐννέα	ἐννέα	NUM	Ma	_	16	flat	_	ref=LUKE_15.4
+17	ἐννέα	ἐννέα	NUM	Ma	_	16	fixed	_	ref=LUKE_15.4
 18	ἐν	ἐν	ADP	R-	_	20	case	_	ref=LUKE_15.4
 19	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	ref=LUKE_15.4
 20	ἐρήμῳ	ἔρημος	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=LUKE_15.4
@@ -10544,7 +10544,7 @@
 14	ἢ	ἤ	ADV	Df	_	9	advmod	_	ref=LUKE_15.7
 15	ἐπὶ	ἐπί	ADP	R-	_	18	case	_	ref=LUKE_15.7
 16	ἐνενήκοντα	ἐνενήκοντα	NUM	Ma	_	18	nummod	_	ref=LUKE_15.7
-17	ἐννέα	ἐννέα	NUM	Ma	_	16	flat	_	ref=LUKE_15.7
+17	ἐννέα	ἐννέα	NUM	Ma	_	16	fixed	_	ref=LUKE_15.7
 18	δικαίοις	δίκαιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	14	nmod	_	ref=LUKE_15.7
 19	οἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	ref=LUKE_15.7
 20	οὐ	οὐ	ADV	Df	Polarity=Neg	22	advmod	_	ref=LUKE_15.7
@@ -13707,7 +13707,7 @@
 9	λαληθήσεταί	λαλέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	2	conj	_	ref=ACTS_9.6
 10	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	iobj	_	ref=ACTS_9.6
 11	ὅ	ὅστις	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	15	obj	_	ref=ACTS_9.6
-12	τι	τι	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	flat	_	ref=ACTS_9.6
+12	τι	τι	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	fixed	_	ref=ACTS_9.6
 13	σε	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	ref=ACTS_9.6
 14	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	nsubj:pass	_	ref=ACTS_9.6
 15	ποιεῖν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	ccomp	_	ref=ACTS_9.6
