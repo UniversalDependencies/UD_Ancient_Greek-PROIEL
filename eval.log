@@ -3,11 +3,11 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 0a21b99f543333f5526d50c19661efe685842c1d
-Merge: 254a18b a491012
+commit ac6aee113a192a9ec4510526b8cca112cc055dca
+Merge: b06932a 3eade73
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 214015 of 214015 words (nodes).
-Size: min(0, log((N/1000)**2)) = 10.7320922120467.
+Size: counted 213999 of 213999 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.7319426842275.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,12 +15,12 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 160397 out of 214015 total words have one or more features.
+Features: 160388 out of 213999 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 29 out of 37 found in the corpus.
+Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 6483 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 214015 words.
+Udapi: found 5500 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 213999 words.
 Genres: found 2 out of 17 known.
 validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.776814737828126) = 0.199183266109776
+(weight=0.256410256410256) * (score{size}=0.776803914643661) = 0.199180490934272
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
-(weight=0.307692307692308) * (score{udapi}=0.69707730766535) = 0.214485325435492
-(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.695988920924421) * (availability=1) * (validity=1) = 0.695988920924421
+(weight=0.307692307692308) * (score{udapi}=0.742989453221744) = 0.228612139452844
+(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
+(TOTAL score=0.711776161429471) * (availability=1) * (validity=1) = 0.711776161429471
 STARS = 3.5
-UD_Ancient_Greek-PROIEL	0.695988920924421	3.5
+UD_Ancient_Greek-PROIEL	0.711776161429471	3.5
