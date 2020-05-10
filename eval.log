@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 3628cad0c14be56ca416f5f25819495fc2da0f3e
+commit 88ef9c4bc220aaec20d04696636ff587614c4c9a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 20:52:17 2019 +0200
+Date:   Tue Nov 12 16:38:25 2019 +0100
 Size: counted 213999 of 213999 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7319426842275.
 Size: maximum value 13.815511 is for 1000000 words or more.
