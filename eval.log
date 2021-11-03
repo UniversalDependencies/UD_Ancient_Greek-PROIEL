@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 38fc505d8bbeaaee014daaff0ce5af358655e411
+commit 291e7e16a861e6ec43dd6f167a5f7051677f450c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 11 18:58:06 2020 +0100
+Date:   Thu May 13 08:47:41 2021 +0200
 Size: counted 213999 of 213999 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7319426842275.
 Size: maximum value 13.815511 is for 1000000 words or more.
