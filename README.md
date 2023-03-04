@@ -20,6 +20,8 @@ The development data consists Matthew 5, Mark 5, John 5, Luke 5 and 15, Acts 5,6
 
 # Changelog
 
+* 2023-05-15 UD 2.12
+  * Fixed some validation errors.
 * 2022-05-15 UD 2.10
   * MISC ref= changed to Ref= to match other UD treebanks.
 
