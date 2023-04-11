@@ -1649,7 +1649,7 @@
 14	ἀρρωδέων	ὀρρωδέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	orphan	_	ref=1.111.1
 15	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=1.111.1
 16	δὲ	δέ	ADV	Df	_	17	discourse	_	ref=1.111.1
-17	γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	orphan	_	ref=1.111.1
+17	γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	ref=1.111.1
 18	ὅ	ὅ	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	24	obl	_	ref=1.111.1
 19	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	18	det	_	ref=1.111.1
 20	οὐκ	οὐ	ADV	Df	Polarity=Neg	21	advmod	_	ref=1.111.1
@@ -4979,7 +4979,7 @@
 28	προτέρῳ	πρότερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	ref=5.115.1
 29	βασιλέι	βασιλεύς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	26	appos	_	ref=5.115.1
 30	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	31	det	_	ref=5.115.1
-31	Σαλαμινίους	Σαλαμίνιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	16	orphan	_	ref=5.115.1
+31	Σαλαμινίους	Σαλαμίνιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	16	conj	_	ref=5.115.1
 32	παραδόντας	παραδίδωμι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	31	orphan	_	ref=5.115.1
 33	αὐτίκα	αὐτίκα	ADV	Df	_	38	advmod	_	ref=5.115.1
 34	μαθόντες	μανθάνω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	38	advcl	_	ref=5.115.1
@@ -11813,7 +11813,7 @@
 24	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	27	det	_	ref=JOHN_5.29
 25	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	26	det	_	ref=JOHN_5.29
 26	φαῦλα	φαῦλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	27	obj	_	ref=JOHN_5.29
-27	πράξαντες	πράσσω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	orphan	_	ref=JOHN_5.29
+27	πράξαντες	πράσσω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	conj	_	ref=JOHN_5.29
 28	εἰς	εἰς	ADP	R-	_	29	case	_	ref=JOHN_5.29
 29	ἀνάστασιν	ἀνάστασις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	orphan	_	ref=JOHN_5.29
 30	κρίσεως	κρίσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	ref=JOHN_5.29
