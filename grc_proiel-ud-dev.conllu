@@ -647,7 +647,7 @@
 12	μάλιστα	μάλα	ADV	Df	Degree=Sup	14	advmod	_	ref=1.14.1
 13	μνήμην	μνήμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	ref=1.14.1
 14	ἄξιον	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc,Neut|Number=Sing	8	advcl	_	ref=1.14.1
-15	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	ccomp	_	ref=1.14.1
+15	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	csubj	_	ref=1.14.1
 16	ἐστί	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	ref=1.14.1|LId=1
 
 # source = Histories, Book 1, chapter 14
@@ -2171,7 +2171,7 @@
 3	ἐς	εἰς	ADP	R-	_	5	case	_	ref=1.113.2
 4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	ref=1.113.2
 5	Ἁρπάγου	Ἅρπαγος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=1.113.2
-6	ἀποδεικνύναι	ἀποδείκνυμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	ref=1.113.2
+6	ἀποδεικνύναι	ἀποδείκνυμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	ref=1.113.2
 7	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.113.2
 8	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	ccomp	_	ref=1.113.2
 9	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	ref=1.113.2|LId=1
@@ -4548,7 +4548,7 @@
 9	τε	τε	CCONJ	C-	_	11	cc	_	ref=5.111.4
 10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=5.111.4
 11	στρατηγῷ	στρατηγός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	conj	_	ref=5.111.4
-12	προσφέρεσθαι	προσφέρω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	5	ccomp	_	ref=5.111.4
+12	προσφέρεσθαι	προσφέρω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	5	csubj	_	ref=5.111.4
 
 # source = Histories, Book 5, chapter 111
 # text = ἤν τε γὰρ κατέλῃς ἄνδρα στρατηγόν μέγα τοι γίνεται καὶ δεύτερα ἢν σὲ ἐκεῖνος τὸ μὴ γένοιτο ὑπὸ ἀξιοχρέου καὶ ἀποθανεῖν ἡμίσεα συμφορή
@@ -5928,7 +5928,7 @@
 17	ἔφασαν	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	ref=6.5.2
 18	ἕτοιμοι	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	17	xcomp	_	ref=6.5.2
 19	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	cop	_	ref=6.5.2|LId=1
-20	πείθεσθαι	πείθω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	18	ccomp	_	ref=6.5.2
+20	πείθεσθαι	πείθω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	18	csubj	_	ref=6.5.2
 
 # source = Histories, Book 6, chapter 6
 # text = Ἱστιαῖος μέν νυν καὶ Μυτιληναῖοι ἐποίευν ταῦτα
@@ -6287,7 +6287,7 @@
 36	οἷοί	οἷος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	29	conj	_	ref=6.9.1|LId=1
 37	τε	τε	ADV	Df	_	36	discourse	_	ref=6.9.1
 38	ἔωσι	εἰμί	AUX	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	ref=6.9.1|LId=1
-39	ἐξελεῖν	ἐξαιρέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	36	ccomp	_	ref=6.9.1
+39	ἐξελεῖν	ἐξαιρέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	36	csubj	_	ref=6.9.1
 40	μὴ	μή	ADV	Df	Polarity=Neg	43	advmod	_	ref=6.9.1
 41	οὐκ	οὐ	ADV	Df	Polarity=Neg	43	advmod	_	ref=6.9.1
 42	ἐόντες	εἰμί	AUX	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	43	cop	_	ref=6.9.1|LId=1
@@ -8462,7 +8462,7 @@
 36	πέδαις	πέδη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	39	obl	_	ref=MARK_5.4
 37	καὶ	καί	CCONJ	C-	_	38	cc	_	ref=MARK_5.4
 38	ἁλύσεσιν	ἅλυσις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	36	conj	_	ref=MARK_5.4
-39	δεδέσθαι	δέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	29	obl	_	ref=MARK_5.4|LId=1
+39	δεδέσθαι	δέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	29	advcl	_	ref=MARK_5.4|LId=1
 40	καὶ	καί	CCONJ	C-	_	41	cc	_	ref=MARK_5.4
 41	διεσπάσθαι	διασπάω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	39	conj	_	ref=MARK_5.4
 42	ὑπ’	ὑπό	ADP	R-	_	43	case	_	ref=MARK_5.4
@@ -10816,7 +10816,7 @@
 1	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	3	advmod	_	ref=LUKE_15.19
 2	εἰμὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=LUKE_15.19|LId=1
 3	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_15.19
-4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	ccomp	_	ref=LUKE_15.19
+4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	csubj	_	ref=LUKE_15.19
 5	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=LUKE_15.19
 6	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	det	_	ref=LUKE_15.19
 
@@ -10895,7 +10895,7 @@
 1	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	3	advmod	_	ref=LUKE_15.21
 2	εἰμὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=LUKE_15.21|LId=1
 3	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_15.21
-4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	ccomp	_	ref=LUKE_15.21
+4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	csubj	_	ref=LUKE_15.21
 5	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=LUKE_15.21
 6	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	det	_	ref=LUKE_15.21
 
@@ -13285,7 +13285,7 @@
 7	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=ACTS_6.2
 8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=ACTS_6.2
 9	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=ACTS_6.2
-10	διακονεῖν	διακονέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	ref=ACTS_6.2
+10	διακονεῖν	διακονέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	ref=ACTS_6.2
 11	τραπέζαις	τράπεζα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	obl:arg	_	ref=ACTS_6.2
 
 # source = The Greek New Testament, Acts 6
@@ -15243,7 +15243,7 @@
 5	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=ACTS_10.28|LId=1
 6	ἀνδρὶ	ἀνήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=ACTS_10.28
 7	Ἰουδαίῳ	Ἰουδαῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	amod	_	ref=ACTS_10.28
-8	κολλᾶσθαι	κολλάω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	ccomp	_	ref=ACTS_10.28
+8	κολλᾶσθαι	κολλάω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	csubj	_	ref=ACTS_10.28
 9	ἢ	ἤ	CCONJ	C-	_	10	cc	_	ref=ACTS_10.28
 10	προσέρχεσθαι	προσέρχομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	8	conj	_	ref=ACTS_10.28
 11	ἀλλοφύλῳ	ἀλλόφυλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	obl:arg	_	ref=ACTS_10.28
@@ -15714,7 +15714,7 @@
 6	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	4	nsubj	_	ref=ACTS_10.47
 7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	ref=ACTS_10.47
 8	μὴ	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=ACTS_10.47
-9	βαπτισθῆναι	βαπτίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	5	obl	_	ref=ACTS_10.47
+9	βαπτισθῆναι	βαπτίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	5	advcl	_	ref=ACTS_10.47
 10	τούτους	οὗτος	PRON	Pd	Case=Acc|Gender=Masc|Number=Plur	9	nsubj:pass	_	ref=ACTS_10.47
 11	οἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	_	ref=ACTS_10.47
 12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	ref=ACTS_10.47
@@ -15935,7 +15935,7 @@
 10	πνευματικὸν	πνευματικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	ref=ROM_1.11
 11	εἰς	εἰς	ADP	R-	_	13	case	_	ref=ROM_1.11
 12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	ref=ROM_1.11
-13	στηριχθῆναι	στηρίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	7	obl	_	ref=ROM_1.11
+13	στηριχθῆναι	στηρίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	7	advcl	_	ref=ROM_1.11
 14	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	13	nsubj:pass	_	ref=ROM_1.11
 15	τοῦτο	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	18	nsubj:pass	_	ref=ROM_1.12
 16	δέ	δέ	ADV	Df	_	18	discourse	_	ref=ROM_1.12

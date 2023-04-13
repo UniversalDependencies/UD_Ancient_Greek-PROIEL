@@ -1498,7 +1498,7 @@
 6	περὶ	περί	ADP	R-	_	7	case	_	ref=1.120.5
 7	πολλοῦ	πολύς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=1.120.5
 8	ἐστι	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=1.120.5|LId=1
-9	κατορθοῦσθαι	κατορθόω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	7	ccomp	_	ref=1.120.5
+9	κατορθοῦσθαι	κατορθόω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	7	csubj	_	ref=1.120.5
 10	ἀρχὴν	ἀρχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	nsubj:pass	_	ref=1.120.5
 11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1.120.5
 12	σήν	σός	DET	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	10	det	_	ref=1.120.5
@@ -2756,7 +2756,7 @@
 7	νόμος	νόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1.132.3
 8	ἐστὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=1.132.3|LId=1
 9	θυσίας	θυσία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	ref=1.132.3
-10	ποιέεσθαι	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	7	ccomp	_	ref=1.132.3
+10	ποιέεσθαι	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	7	csubj	_	ref=1.132.3
 
 # source = Histories, Book 1, chapter 132
 # text = ἐπισχὼν δὲ ὀλίγον χρόνον ἀποφέρεται ὁ θύσας τὰ κρέα καὶ χρᾶται ὅ τι μιν λόγος αἱρέει
@@ -3496,7 +3496,7 @@
 8	καί	καί	ADV	Df	_	11	advmod	_	ref=1.138.1|LId=1
 9	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	10	det	_	ref=1.138.1
 10	ψεῦδος	ψεῦδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=1.138.1
-11	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=1.138.1
+11	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	ref=1.138.1
 
 # source = Histories, Book 1, chapter 138
 # text = ὃς ἂν δὲ τῶν ἀστῶν λέπρην ἢ λεύκην ἔχῃ ἐς πόλιν οὗτος οὐ κατέρχεται οὐδὲ συμμίσγεται τοῖσι ἄλλοισι Πέρσῃσι
@@ -4241,7 +4241,7 @@
 # sent_id = 70117
 1	οὕτω	οὕτω(ς)	ADV	Df	_	2	advmod	_	ref=5.49.4
 2	εὐπετέες	εὐπετής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=5.49.4
-3	χειρωθῆναι	χειρόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	2	ccomp	_	ref=5.49.4
+3	χειρωθῆναι	χειρόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	2	csubj	_	ref=5.49.4
 4	εἰσί	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=5.49.4|LId=1
 
 # source = Histories, Book 5, chapter 49
@@ -4459,7 +4459,7 @@
 15	ἐστι	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	ref=5.49.8|LId=1
 16	ὑμέας	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	18	nsubj	_	ref=5.49.8
 17	μάχας	μάχη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	18	obj	_	ref=5.49.8
-18	ἀναβάλλεσθαι	ἀναβάλλω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	14	ccomp	_	ref=5.49.8
+18	ἀναβάλλεσθαι	ἀναβάλλω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	14	csubj	_	ref=5.49.8
 19	πρός	πρός	ADP	R-	_	21	case	_	ref=5.49.8
 20	τε	τε	CCONJ	C-	_	21	cc	_	ref=5.49.8
 21	Μεσσηνίους	Μεσσήνιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	17	amod	_	ref=5.49.8
@@ -4935,7 +4935,7 @@
 8	ἐς	εἰς	ADP	R-	_	10	case	_	ref=5.126.1
 9	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=5.126.1
 10	Μύρκινον	Μύρκινος	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	ref=5.126.1
-11	ἀπάγειν	ἀπάγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	ccomp	_	ref=5.126.1
+11	ἀπάγειν	ἀπάγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	csubj	_	ref=5.126.1
 
 # source = Histories, Book 5, chapter 126
 # text = τὴν μὲν δὴ Μίλητον ἐπιτράπει Πυθαγόρῃ ἀνδρὶ τῶν ἀστῶν δοκίμῳ
@@ -5101,7 +5101,7 @@
 6	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=6.11.2
 7	ἐναντίους	ἐναντίος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	obj	_	ref=6.11.2
 8	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	cop	_	ref=6.11.2|LId=1
-9	ἐλεύθεροι	ἐλεύθερος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	ccomp	_	ref=6.11.2
+9	ἐλεύθεροι	ἐλεύθερος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	csubj	_	ref=6.11.2
 
 # source = Histories, Book 6, chapter 11
 # text = εἰ δὲ μαλακίῃ τε καὶ ἀταξίῃ διαχρήσησθε οὐδεμίαν ὑμέων ἔχω ἐλπίδα μὴ οὐ δώσειν ὑμέας δίκην βασιλέι τῆς ἀποστάσιος
@@ -5303,7 +5303,7 @@
 34	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	33	det	_	ref=6.12.3
 35	ὦν	οὖν	ADV	Df	_	36	discourse	_	ref=6.12.3
 36	ἄλλο	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	37	obj	_	ref=6.12.3
-37	παθεῖν	πάσχω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	31	ccomp	_	ref=6.12.3
+37	παθεῖν	πάσχω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	31	csubj	_	ref=6.12.3
 38	ἐστι	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	cop	_	ref=6.12.3|LId=1
 39	καὶ	καί	CCONJ	C-	_	43	cc	_	ref=6.12.3
 40	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	43	det	_	ref=6.12.3
@@ -5425,7 +5425,7 @@
 7	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	9	det	_	ref=6.13.1
 8	βασιλέος	βασιλεύς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=6.13.1
 9	πρήγματα	πρᾶγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	ref=6.13.1
-10	ὑπερβαλέσθαι	ὑπερβάλλω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	6	ccomp	_	ref=6.13.1
+10	ὑπερβαλέσθαι	ὑπερβάλλω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	6	csubj	_	ref=6.13.1
 
 # source = Histories, Book 6, chapter 13
 # text = προφάσιος ὦν ἐπιλαβόμενοι ἐπείτε τάχιστα εἶδον τοὺς Ἴωνας οὐ βουλομένους εἶναι χρηστούς ἐν κέρδεϊ ἐποιεῦντο περιποιῆσαι τά τε ἱρὰ τὰ σφέτερα καὶ τὰ ἴδια
@@ -10476,7 +10476,7 @@
 15	διὰ	διά	ADP	R-	_	18	case	_	ref=LUKE_6.48
 16	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	18	det	_	ref=LUKE_6.48
 17	καλῶς	καλῶς	ADV	Df	Degree=Pos	18	advmod	_	ref=LUKE_6.48
-18	οἰκοδομῆσθαι	οἰκοδομέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	12	obl	_	ref=LUKE_6.48
+18	οἰκοδομῆσθαι	οἰκοδομέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	12	advcl	_	ref=LUKE_6.48
 19	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj:pass	_	ref=LUKE_6.48
 
 # source = The Greek New Testament, Luke 6
@@ -11012,7 +11012,7 @@
 6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=LUKE_16.17
 7	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=LUKE_16.17
 8	γῆν	γῆ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	ref=LUKE_16.17
-9	παρελθεῖν	παρέρχομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=LUKE_16.17
+9	παρελθεῖν	παρέρχομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	csubj	_	ref=LUKE_16.17
 10	ἢ	ἤ	ADV	Df	_	15	mark	_	ref=LUKE_16.17
 11	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=LUKE_16.17
 12	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	ref=LUKE_16.17
@@ -15078,7 +15078,7 @@
 7	κύριον	κύριος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=ACTS_8.24
 8	ὅπως	ὅπως	SCONJ	G-	_	10	mark	_	ref=ACTS_8.24
 9	μηδὲν	μηδείς	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=ACTS_8.24
-10	ἐπέλθῃ	ἐπέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj:pass	_	ref=ACTS_8.24
+10	ἐπέλθῃ	ἐπέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=ACTS_8.24
 11	ἐπ’	ἐπί	ADP	R-	_	12	case	_	ref=ACTS_8.24
 12	ἐμὲ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl	_	ref=ACTS_8.24
 13	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	14	obl:arg	_	ref=ACTS_8.24
