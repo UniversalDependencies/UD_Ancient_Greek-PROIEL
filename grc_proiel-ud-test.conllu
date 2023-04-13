@@ -3433,7 +3433,7 @@
 2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1.137.2
 3	δή	δή	ADV	Df	_	4	discourse	_	ref=1.137.2
 4	φασι	φημί	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.137.2
-5	οἰκὸς	εἰκός	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	nsubj	_	ref=1.137.2
+5	οἰκὸς	εἰκός	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	nsubj:outer	_	ref=1.137.2
 6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	cop	_	ref=1.137.2|LId=1
 7	τόν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=1.137.2
 8	γε	γε	ADV	Df	_	9	discourse	_	ref=1.137.2

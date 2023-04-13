@@ -16769,7 +16769,7 @@
 13	χιών	χιών	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	ref=REV_1.14
 14	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=REV_1.14
 15	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	16	det	_	ref=REV_1.14
-16	ὀφθαλμοὶ	ὀφθαλμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	ref=REV_1.14
+16	ὀφθαλμοὶ	ὀφθαλμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj:outer	_	ref=REV_1.14
 17	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	ref=REV_1.14
 18	ὡς	ὡς	ADV	Dq	PronType=Rel	8	conj	_	ref=REV_1.14
 19	φλὸξ	φλόξ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	ref=REV_1.14
@@ -16786,7 +16786,7 @@
 30	πεπυρωμένῳ	πυρόω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	27	obl	_	ref=REV_1.15
 31	καὶ	καί	CCONJ	C-	_	35	cc	_	ref=REV_1.15
 32	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	ref=REV_1.15
-33	φωνὴ	φωνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	ref=REV_1.15
+33	φωνὴ	φωνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	35	nsubj:outer	_	ref=REV_1.15
 34	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	det	_	ref=REV_1.15
 35	ὡς	ὡς	ADV	Dq	PronType=Rel	8	conj	_	ref=REV_1.15
 36	φωνὴ	φωνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	ref=REV_1.15
@@ -16812,7 +16812,7 @@
 56	ἐκπορευομένη	ἐκπορεύομαι	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	8	conj	_	ref=REV_1.16
 57	καὶ	καί	CCONJ	C-	_	64	cc	_	ref=REV_1.16
 58	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	59	det	_	ref=REV_1.16
-59	ὄψις	ὄψις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	64	nsubj	_	ref=REV_1.16
+59	ὄψις	ὄψις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	64	nsubj:outer	_	ref=REV_1.16
 60	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	59	det	_	ref=REV_1.16
 61	ὡς	ὡς	ADV	Dq	PronType=Rel	64	advcl	_	ref=REV_1.16
 62	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	63	det	_	ref=REV_1.16
