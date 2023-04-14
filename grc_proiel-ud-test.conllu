@@ -5725,7 +5725,7 @@
 20	διεκπλέοντες	διεκπλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	advcl	_	ref=6.15.2
 21	ἐναυμάχεον	ναυμαχέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=6.15.2
 22	ἐς	εἰς	SCONJ	G-	_	29	mark	_	ref=6.15.2
-23	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	22	aux	_	ref=6.15.2
+23	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	22	fixed	_	ref=6.15.2
 24	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	25	det	_	ref=6.15.2
 25	πολεμίων	πολέμιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	27	nmod	_	ref=6.15.2
 26	ἑλόντες	αἱρέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	29	advcl	_	ref=6.15.2
@@ -13534,7 +13534,7 @@
 19	ἐν	ἐν	ADP	R-	_	20	case	_	ref=ACTS_7.17
 20	Αἰγύπτῳ	Αἴγυπτος	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	ref=ACTS_7.17
 21	ἄχρι	ἄχρι	SCONJ	G-	_	23	mark	_	ref=ACTS_7.18
-22	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	21	aux	_	ref=ACTS_7.18
+22	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	21	fixed	_	ref=ACTS_7.18
 23	ἀνέστη	ἀνίστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	ref=ACTS_7.18
 24	βασιλεὺς	βασιλεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	ref=ACTS_7.18
 25	ἕτερος	ἕτερος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	ref=ACTS_7.18

@@ -2618,7 +2618,7 @@
 7	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=1.115.3
 8	οὐδένα	οὐδείς	DET	Px	Case=Acc|Gender=Masc|Number=Sing	6	det	_	ref=1.115.3
 9	ἐς	εἰς	SCONJ	G-	_	11	mark	_	ref=1.115.3
-10	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	aux	_	ref=1.115.3
+10	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	fixed	_	ref=1.115.3
 11	ἔλαβὲ	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1.115.3
 12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1.115.3
 13	δίκην	δίκη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	ref=1.115.3
@@ -3042,7 +3042,7 @@
 13	παραμένοντα	παραμένω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=1.117.4
 14	φυλάσσειν	φυλάσσω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=1.117.4
 15	ἄχρι	ἄχρι	SCONJ	G-	_	17	mark	_	ref=1.117.4
-16	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	15	aux	_	ref=1.117.4
+16	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	15	fixed	_	ref=1.117.4
 17	τελευτήσῃ	τελευτάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	ref=1.117.4
 18	ἀπειλήσας	ἀπειλέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=1.117.4
 19	παντοῖα	παντοῖος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	18	obj	_	ref=1.117.4
@@ -7848,7 +7848,7 @@
 5	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	4	det	_	ref=MATT_5.25
 6	ταχὺ	ταχύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	advmod	_	ref=MATT_5.25
 7	ἕως	ἕως	SCONJ	G-	_	11	mark	_	ref=MATT_5.25
-8	ὅτου	ὅστις	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	7	aux	_	ref=MATT_5.25
+8	ὅτου	ὅστις	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	7	fixed	_	ref=MATT_5.25
 9	εἶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	ref=MATT_5.25|LId=1
 10	μετ’	μετά	ADP	R-	_	11	case	_	ref=MATT_5.25
 11	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	advcl	_	ref=MATT_5.25
@@ -10576,7 +10576,7 @@
 19	ζητεῖ	ζητέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	ref=LUKE_15.8
 20	ἐπιμελῶς	ἐπιμελῶς	ADV	Df	Degree=Pos	19	advmod	_	ref=LUKE_15.8
 21	ἕως	ἕως	SCONJ	G-	_	23	mark	_	ref=LUKE_15.8
-22	ὅτου	ὅστις	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	21	aux	_	ref=LUKE_15.8
+22	ὅτου	ὅστις	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	21	fixed	_	ref=LUKE_15.8
 23	εὕρῃ	εὑρίσκω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	ref=LUKE_15.8
 
 # source = The Greek New Testament, Luke 15
@@ -17660,7 +17660,7 @@
 3	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	obj	_	ref=REV_2.25
 4	κρατήσατε	κρατέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=REV_2.25
 5	ἄχρι	ἄχρι	SCONJ	G-	_	8	mark	_	ref=REV_2.25
-6	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	5	aux	_	ref=REV_2.25
+6	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	5	fixed	_	ref=REV_2.25
 7	ἂν	ἄν	ADV	Df	_	8	advmod	_	ref=REV_2.25
 8	ἥξω	ἥκω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	ref=REV_2.25
 
