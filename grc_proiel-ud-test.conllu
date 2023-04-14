@@ -13696,7 +13696,7 @@
 # source = The Greek New Testament, Acts 7
 # text = οἱ δὲ οὐ συνῆκαν
 # sent_id = 48868
-1	οἱ	ὁ	PRON	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	nsubj	_	ref=ACTS_7.25
+1	οἱ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	ref=ACTS_7.25
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=ACTS_7.25
 3	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=ACTS_7.25
 4	συνῆκαν	συνίημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_7.25
