@@ -3626,7 +3626,7 @@
 17	τὸ	ὁ	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	21	obj	_	ref=1.139.1
 18	Δωριέες	Δωριεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=1.139.1
 19	μὲν	μέν	ADV	Df	_	18	discourse	_	ref=1.139.1
-20	σὰν	σάν	X	F-	_	21	xcomp	_	ref=1.139.1
+20	σὰν	σάν	VERB	F-	_	21	xcomp	_	ref=1.139.1
 21	καλέουσι	καλέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	ref=1.139.1
 22	Ἴωνες	Ἴων	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	21	conj	_	ref=1.139.1
 23	δὲ	δέ	ADV	Df	_	22	discourse	_	ref=1.139.1

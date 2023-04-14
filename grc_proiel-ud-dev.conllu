@@ -1451,7 +1451,7 @@
 2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1.110.1
 3	κύνα	κύων	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=1.110.1
 4	καλέουσι	καλέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.110.1
-5	σπάκα	σπάκα	X	F-	_	4	xcomp	_	ref=1.110.1
+5	σπάκα	σπάκα	VERB	F-	_	4	xcomp	_	ref=1.110.1
 6	Μῆδοι	Μῆδος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=1.110.1
 
 # source = Histories, Book 1, chapter 110
@@ -7770,7 +7770,7 @@
 5	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=MATT_5.22
 6	ἀδελφῷ	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	ref=MATT_5.22
 7	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=MATT_5.22
-8	ῥακά	ῥακά	X	F-	_	4	obj	_	ref=MATT_5.22
+8	ῥακά	ῥακά	NOUN	F-	_	4	obj	_	ref=MATT_5.22
 9	ἔνοχος	ἔνοχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.22
 10	ἔσται	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	9	cop	_	ref=MATT_5.22|LId=1
 11	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	ref=MATT_5.22
@@ -9296,8 +9296,8 @@
 # source = The Greek New Testament, Mark 5
 # text = ταλιθὰ κούμ ὅ ἐστιν μεθερμηνευόμενον
 # sent_id = 6763
-1	ταλιθὰ	ταλιθά	X	F-	_	2	vocative	_	ref=MARK_5.41
-2	κούμ	κούμ	X	F-	_	0	root	_	ref=MARK_5.41
+1	ταλιθὰ	ταλιθά	NOUN	F-	_	2	vocative	_	ref=MARK_5.41
+2	κούμ	κούμ	VERB	F-	_	0	root	_	ref=MARK_5.41
 3	ὅ	ὅς	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj:pass	_	ref=MARK_5.41
 4	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MARK_5.41|LId=1
 5	μεθερμηνευόμενον	μεθερμηνεύω	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	advcl	_	ref=MARK_5.41
