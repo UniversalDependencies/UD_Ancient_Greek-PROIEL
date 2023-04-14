@@ -80,7 +80,7 @@
 17	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1.21.1
 18	Μιλησίοισι	Μιλήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	ref=1.21.1
 19	χρόνον	χρόνος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	24	advcl	_	ref=1.21.1
-20	ὅσον	ὅσος	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	19	det	_	ref=1.21.1
+20	ὅσον	ὅσος	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	19	acl	_	ref=1.21.1
 21	ἂν	ἄν	ADV	Df	_	24	advmod	_	ref=1.21.1
 22	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	ref=1.21.1
 23	νηὸν	ναός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	24	obj	_	ref=1.21.1
@@ -119,7 +119,7 @@
 # source = Histories, Book 1, chapter 21
 # text = ὅσος ἦν ἐν τῷ ἄστεϊ σῖτος καὶ ἑωυτοῦ καὶ ἰδιωτικός τοῦτον πάντα συγκομίσας ἐς τὴν ἀγορὴν προεῖπε Μιλησίοισι ἐπεὰν αὐτὸς σημήνῃ τότε πίνειν τε πάντας καὶ κώμῳ χρᾶσθαι ἐς ἀλλήλους
 # sent_id = 64495
-1	ὅσος	ὅσος	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	det	_	ref=1.21.2
+1	ὅσος	ὅσος	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	acl	_	ref=1.21.2
 2	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	dislocated	_	ref=1.21.2|LId=1
 3	ἐν	ἐν	ADP	R-	_	2	obl	_	ref=1.21.2
 4	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	ref=1.21.2
@@ -1738,7 +1738,7 @@
 23	τελευτῆσαι	τελευτάω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	20	ccomp	_	ref=1.122.1
 24	ἱστόρεόν	ἱστορέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=1.122.1
 25	τε	τε	CCONJ	C-	_	9	cc	_	ref=1.122.1
-26	ὅτεῳ	ὅστις	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	27	det	_	ref=1.122.1
+26	ὅτεῳ	ὅστις	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	27	acl	_	ref=1.122.1
 27	τρόπῳ	τρόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	28	advcl	_	ref=1.122.1
 28	περιγένοιτο	περιγίγνομαι	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	24	ccomp	_	ref=1.122.1
 
@@ -2202,7 +2202,7 @@
 4	βούλῃ	βούλομαι	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	14	advcl	_	ref=1.124.2
 5	ἐμοὶ	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl:arg	_	ref=1.124.2
 6	πείθεσθαι	πείθω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	ref=1.124.2
-7	τῆς	ὁ	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	det	_	ref=1.124.2
+7	τῆς	ὁ	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	acl	_	ref=1.124.2
 8	περ	πέρ	ADV	Df	_	7	discourse	_	ref=1.124.2
 9	Ἀστυάγης	Ἀστυάγης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=1.124.2
 10	ἄρχει	ἄρχω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	ref=1.124.2
@@ -2290,7 +2290,7 @@
 3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1.125.1
 4	Κῦρος	Κῦρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=1.125.1
 5	ἐφρόντιζε	φροντίζω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.125.1
-6	ὅτεῳ	ὅστις	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	7	det	_	ref=1.125.1
+6	ὅτεῳ	ὅστις	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	7	acl	_	ref=1.125.1
 7	τρόπῳ	τρόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	advcl	_	ref=1.125.1
 8	σοφωτάτῳ	σοφός	ADJ	A-	Case=Dat|Degree=Sup|Gender=Masc,Neut|Number=Sing	7	amod	_	ref=1.125.1
 9	Πέρσας	Πέρσης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	ref=1.125.1
@@ -3410,7 +3410,7 @@
 9	οὐδὲ	οὐδέ	CCONJ	C-	_	10	cc	_	ref=1.137.2
 10	μητέρα	μήτηρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	ref=1.137.2
 11	ἀλλὰ	ἀλλά	CCONJ	C-	_	18	cc	_	ref=1.137.2
-12	ὁκόσα	ὁπόσος	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	14	det	_	ref=1.137.2
+12	ὁκόσα	ὁπόσος	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	14	acl	_	ref=1.137.2
 13	ἤδη	ἤδη	ADV	Df	_	15	advmod	_	ref=1.137.2
 14	τοιαῦτα	τοιοῦτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	15	nsubj	_	ref=1.137.2
 15	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	21	dislocated	_	ref=1.137.2
@@ -4268,7 +4268,7 @@
 9	μὲν	μέν	ADV	Df	_	12	discourse	_	ref=5.49.5
 10	τῶνδε	ὅδε	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	8	det	_	ref=5.49.5
 11	οἵδε	ὅδε	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	12	det	_	ref=5.49.5
-12	Λυδοί	Λυδός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	parataxis	_	ref=5.49.5
+12	Λυδοί	Λυδός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	advcl	_	ref=5.49.5
 13	οἰκέοντές	οἰκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	ref=5.49.5
 14	τε	τε	CCONJ	C-	_	18	cc	_	ref=5.49.5
 15	χώρην	χώρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	ref=5.49.5
@@ -5299,7 +5299,7 @@
 30	γε	γε	ADV	Df	_	29	discourse	_	ref=6.12.3
 31	κρέσσον	κρείσσων	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	5	conj	_	ref=6.12.3
 32	καὶ	καί	ADV	Df	_	37	advmod	_	ref=6.12.3|LId=1
-33	ὅ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	36	det	_	ref=6.12.3
+33	ὅ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	36	acl	_	ref=6.12.3
 34	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	33	det	_	ref=6.12.3
 35	ὦν	οὖν	ADV	Df	_	36	discourse	_	ref=6.12.3
 36	ἄλλο	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	37	obj	_	ref=6.12.3
@@ -10176,7 +10176,7 @@
 # source = The Greek New Testament, Luke 6
 # text = ᾧ γὰρ μέτρῳ μετρεῖτε ἀντιμετρηθήσεται ὑμῖν
 # sent_id = 20500
-1	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	ref=LUKE_6.38
+1	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	3	acl	_	ref=LUKE_6.38
 2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=LUKE_6.38
 3	μέτρῳ	μέτρον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	advcl	_	ref=LUKE_6.38
 4	μετρεῖτε	μετρέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=LUKE_6.38
@@ -11705,7 +11705,7 @@
 15	εἰς	εἰς	ADP	R-	_	17	case	_	ref=JOHN_6.15
 16	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	ref=JOHN_6.15
 17	ὄρος	ὄρος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	ref=JOHN_6.15|LId=1
-18	αὐτὸς	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	parataxis	_	ref=JOHN_6.15
+18	αὐτὸς	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	advcl	_	ref=JOHN_6.15
 19	μόνος	μόνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	orphan	_	ref=JOHN_6.15
 
 # source = The Greek New Testament, John 6
@@ -12384,7 +12384,7 @@
 5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JOHN_6.42
 6	υἱὸς	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=JOHN_6.42
 7	Ἰωσήφ	Ἰωσήφ	PROPN	Ne	_	6	nmod	_	ref=JOHN_6.42
-8	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	12	det	_	ref=JOHN_6.42
+8	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	12	acl	_	ref=JOHN_6.42
 9	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	ref=JOHN_6.42
 10	οἴδαμεν	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=JOHN_6.42
 11	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JOHN_6.42
@@ -13572,7 +13572,7 @@
 # text = ἐν ᾧ καιρῷ ἐγεννήθη Μωϋσῆς καὶ ἦν ἀστεῖος τῷ θεῷ
 # sent_id = 25178
 1	ἐν	ἐν	ADP	R-	_	3	case	_	ref=ACTS_7.20
-2	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Rel	3	det	_	ref=ACTS_7.20
+2	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Rel	3	acl	_	ref=ACTS_7.20
 3	καιρῷ	καιρός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	advcl	_	ref=ACTS_7.20
 4	ἐγεννήθη	γεννάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=ACTS_7.20
 5	Μωϋσῆς	Μωϋσῆς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	ref=ACTS_7.20
@@ -13764,7 +13764,7 @@
 3	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obj	_	ref=ACTS_7.28
 4	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	ref=ACTS_7.28
 5	θέλεις	ἐθέλω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_7.28
-6	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	7	det	_	ref=ACTS_7.28
+6	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	7	acl	_	ref=ACTS_7.28
 7	τρόπον	τρόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	advcl	_	ref=ACTS_7.28
 8	ἀνεῖλες	ἀναιρέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=ACTS_7.28
 9	ἐχθὲς	ἐχθές	ADV	Df	_	8	advmod	_	ref=ACTS_7.28
