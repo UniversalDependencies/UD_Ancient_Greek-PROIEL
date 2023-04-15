@@ -2240,12 +2240,12 @@
 13	τὰ	ὁ	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	15	obj	_	ref=1.124.3
 14	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	ref=1.124.3
 15	βούλεαι	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	11	nsubj	_	ref=1.124.3
-16	ἤν	ἐάν	SCONJ	G-	_	21	mark	_	ref=1.124.3
-17	τε	τε	CCONJ	C-	_	21	cc	_	ref=1.124.3
+16	ἤν	ἐάν	SCONJ	G-	_	7	conj	_	ref=1.124.3
+17	τε	τε	CCONJ	C-	_	7	cc	_	ref=1.124.3
 18	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	22	det	_	ref=1.124.3
 19	τις	τὶς	DET	Px	Case=Nom|Gender=Masc|Number=Sing	21	det	_	ref=1.124.3
 20	δοκίμων	δόκιμος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Plur	22	amod	_	ref=1.124.3
-21	ἄλλος	ἄλλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	ref=1.124.3
+21	ἄλλος	ἄλλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	nsubj	_	ref=1.124.3
 22	Μήδων	Μῆδος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	ref=1.124.3
 
 # source = Histories, Book 1, chapter 124
@@ -6535,12 +6535,12 @@
 2	δ’	δέ	ADV	Df	_	13	discourse	_	ref=7.85.2
 3	ἂν	ἄν	ADV	Df	_	4	advmod	_	ref=7.85.2
 4	τύχῃ	τυγχάνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	obj	_	ref=7.85.2
-5	ἤν	ἐάν	SCONJ	G-	_	7	mark	_	ref=7.85.2
-6	τε	τε	CCONJ	C-	_	7	cc	_	ref=7.85.2
-7	ἵππου	ἵππος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	advcl	_	ref=7.85.2
-8	ἤν	ἐάν	SCONJ	G-	_	10	mark	_	ref=7.85.2
-9	τε	τε	CCONJ	C-	_	10	cc	_	ref=7.85.2
-10	ἀνθρώπου	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=7.85.2
+5	ἤν	ἐάν	SCONJ	G-	_	4	advcl	_	ref=7.85.2
+6	τε	τε	CCONJ	C-	_	5	fixed	_	ref=7.85.2
+7	ἵππου	ἵππος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl:arg	_	ref=7.85.2
+8	ἤν	ἐάν	SCONJ	G-	_	5	conj	_	ref=7.85.2
+9	τε	τε	CCONJ	C-	_	5	cc	_	ref=7.85.2
+10	ἀνθρώπου	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	ref=7.85.2
 11	ἐπ’	ἐπί	ADP	R-	_	12	case	_	ref=7.85.2
 12	ἑωυτὸν	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obl	_	ref=7.85.2
 13	ἕλκει	ἕλκω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7.85.2
@@ -7083,9 +7083,9 @@
 # source = The Greek New Testament, Matthew 6
 # text = εἰ δὲ μήγε μισθὸν οὐκ ἔχετε παρὰ τῷ πατρὶ ὑμῶν τῷ ἐν οὐρανοῖς
 # sent_id = 14823
-1	εἰ	εἰ	SCONJ	G-	_	3	mark	_	ref=MATT_6.1
+1	εἰ	εἰ	SCONJ	G-	_	6	advcl	_	ref=MATT_6.1
 2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=MATT_6.1
-3	μήγε	μή	ADV	Df	Polarity=Neg	6	advcl	_	ref=MATT_6.1
+3	μήγε	μή	ADV	Df	Polarity=Neg	1	fixed	_	ref=MATT_6.1
 4	μισθὸν	μισθός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=MATT_6.1
 5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=MATT_6.1
 6	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.1
@@ -7837,7 +7837,7 @@
 # text = εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν οὐ πολλῷ μᾶλλον ὑμᾶς ὀλιγόπιστοι
 # sent_id = 14864
 1	εἰ	εἰ	SCONJ	G-	_	17	mark	_	ref=MATT_6.30
-2	δὲ	δέ	ADV	Df	_	17	discourse	_	ref=MATT_6.30
+2	δὲ	δέ	ADV	Df	_	0	root	_	ref=MATT_6.30
 3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=MATT_6.30
 4	χόρτον	χόρτος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	ref=MATT_6.30
 5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=MATT_6.30
@@ -7852,12 +7852,12 @@
 14	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	ref=MATT_6.30
 15	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	ref=MATT_6.30
 16	οὕτως	οὕτω(ς)	ADV	Df	_	17	advmod	_	ref=MATT_6.30
-17	ἀμφιέννυσιν	ἀμφιέννυμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.30
-18	οὐ	οὐ	ADV	Df	Polarity=Neg	17	advmod	_	ref=MATT_6.30
+17	ἀμφιέννυσιν	ἀμφιέννυμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MATT_6.30
+18	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_6.30
 19	πολλῷ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	advmod	_	ref=MATT_6.30
-20	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	17	advmod	_	ref=MATT_6.30
-21	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	17	obj	_	ref=MATT_6.30
-22	ὀλιγόπιστοι	ὀλιγόπιστος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	17	vocative	_	ref=MATT_6.30
+20	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	2	advmod	_	ref=MATT_6.30
+21	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obj	_	ref=MATT_6.30
+22	ὀλιγόπιστοι	ὀλιγόπιστος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	2	vocative	_	ref=MATT_6.30
 
 # source = The Greek New Testament, Matthew 6
 # text = μὴ οὖν μεριμνήσητε λέγοντες τί φάγωμεν ἤ τί πίωμεν ἤ τί περιβαλώμεθα
@@ -12873,8 +12873,8 @@
 # text = ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον
 # sent_id = 22303
 1	ἐὰν	ἐάν	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	οὖν	οὖν	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
-3	θεωρῆτε	θεωρέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
+2	οὖν	οὖν	ADV	Df	_	0	root	_	ref=JOHN_6.62
+3	θεωρῆτε	θεωρέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_6.62
 4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JOHN_6.62
 5	υἱὸν	υἱός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=JOHN_6.62
 6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JOHN_6.62
