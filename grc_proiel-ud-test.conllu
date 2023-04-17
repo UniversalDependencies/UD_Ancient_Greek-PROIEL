@@ -439,7 +439,7 @@
 9	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	6	advmod	_	ref=1.24.2
 10	ἢ	ἤ	ADV	Df	_	11	mark	_	ref=1.24.2
 11	Κορινθίοισι	Κορίνθιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	advcl:cmp	_	ref=1.24.2
-12	μισθώσασθαι	μισθόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	1	ccomp	_	ref=1.24.2
+12	μισθώσασθαι	μισθόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	1	orphan	_	ref=1.24.2
 13	πλοῖον	πλοῖον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=1.24.2
 14	ἀνδρῶν	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	ref=1.24.2
 15	Κορινθίων	Κορίνθιος	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	ref=1.24.2
@@ -3561,7 +3561,7 @@
 5	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1.138.2
 6	αὐτὴν	αὐτός	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	7	det	_	ref=1.138.2
 7	αἰτίην	αἰτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=1.138.2
-8	ἐπιφέροντες	ἐπιφέρω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=1.138.2
+8	ἐπιφέροντες	ἐπιφέρω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	orphan	_	ref=1.138.2
 
 # source = Histories, Book 1, chapter 138
 # text = ἐς ποταμὸν δὲ οὔτε ἐνουρέουσι οὔτε ἐμπτύουσι οὐ χεῖρας ἐναπονίζονται οὐδὲ ἄλλον οὐδένα περιορῶσι ἀλλὰ σέβονται ποταμοὺς μάλιστα
@@ -3677,7 +3677,7 @@
 # sent_id = 81952
 1	Συβαρῖται	Συβαρίτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=5.45.1
 2	μὲν	μέν	ADV	Df	_	1	discourse	_	ref=5.45.1
-3	τέμενός	τέμενος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	ref=5.45.1
+3	τέμενός	τέμενος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	orphan	_	ref=5.45.1
 4	τε	τε	CCONJ	C-	_	6	cc	_	ref=5.45.1
 5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=5.45.1
 6	νηὸν	ναός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	ref=5.45.1
@@ -4150,13 +4150,13 @@
 # source = Histories, Book 5, chapter 49
 # text = ἔτι δὲ τῶν λοιπῶν ὑμῖν ὅσῳ προέστατε τῆς Ἑλλάδος
 # sent_id = 82216
-1	ἔτι	ἔτι	ADV	Df	_	0	root	_	ref=5.49.2
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=5.49.2
+1	ἔτι	ἔτι	ADV	Df	_	5	orphan	_	ref=5.49.2
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=5.49.2
 3	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=5.49.2
 4	λοιπῶν	λοιπός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	nmod	_	ref=5.49.2
-5	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=5.49.2
+5	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=5.49.2
 6	ὅσῳ	ὅσος	PRON	Pr	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	7	advcl	_	ref=5.49.2
-7	προέστατε	προΐστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=5.49.2
+7	προέστατε	προΐστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	orphan	_	ref=5.49.2
 8	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=5.49.2
 9	Ἑλλάδος	Ἑλλάς	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	7	obl:arg	_	ref=5.49.2
 
@@ -4268,7 +4268,7 @@
 9	μὲν	μέν	ADV	Df	_	12	discourse	_	ref=5.49.5
 10	τῶνδε	ὅδε	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	8	det	_	ref=5.49.5
 11	οἵδε	ὅδε	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	12	det	_	ref=5.49.5
-12	Λυδοί	Λυδός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	advcl	_	ref=5.49.5
+12	Λυδοί	Λυδός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	parataxis	_	ref=5.49.5
 13	οἰκέοντές	οἰκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	ref=5.49.5
 14	τε	τε	CCONJ	C-	_	18	cc	_	ref=5.49.5
 15	χώρην	χώρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	ref=5.49.5
@@ -4381,12 +4381,12 @@
 # source = Histories, Book 5, chapter 49
 # text = Ἀρμενίων δὲ Ματιηνοὶ χώρην τήνδε ἔχοντες
 # sent_id = 82221
-1	Ἀρμενίων	Ἀρμένιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=5.49.6
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=5.49.6
-3	Ματιηνοὶ	Ματιηνοί	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=5.49.6
+1	Ἀρμενίων	Ἀρμένιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	3	orphan	_	ref=5.49.6
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=5.49.6
+3	Ματιηνοὶ	Ματιηνοί	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=5.49.6
 4	χώρην	χώρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=5.49.6
 5	τήνδε	ὅδε	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=5.49.6
-6	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=5.49.6
+6	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	orphan	_	ref=5.49.6
 
 # source = Histories, Book 5, chapter 49
 # text = ἔχεται δὲ τούτων γῆ ἥδε Κισσίη ἐν τῇ δὴ παρὰ ποταμὸν τόνδε Χοάσπην κείμενα ἐστὶ τὰ Σοῦσα ταῦτα ἔνθα βασιλεύς τε μέγας δίαιταν ποιέεται καὶ τῶν χρημάτων οἱ θησαυροὶ ἐνθαῦτα εἰσί
@@ -5038,15 +5038,15 @@
 # source = Histories, Book 6, chapter 11
 # text = ἐν δὲ δὴ καὶ ὁ Φωκαεὺς στρατηγὸς Διονύσιος λέγων τάδε
 # sent_id = 83463
-1	ἐν	ἐν	ADV	Df	_	0	root	_	ref=6.11.1
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=6.11.1
-3	δὴ	δή	ADV	Df	_	1	discourse	_	ref=6.11.1
+1	ἐν	ἐν	ADV	Df	_	7	orphan	_	ref=6.11.1
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=6.11.1
+3	δὴ	δή	ADV	Df	_	7	discourse	_	ref=6.11.1
 4	καὶ	καί	ADV	Df	_	7	advmod	_	ref=6.11.1|LId=1
 5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=6.11.1
 6	Φωκαεὺς	Φωκαιεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	ref=6.11.1
-7	στρατηγὸς	στρατηγός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=6.11.1
+7	στρατηγὸς	στρατηγός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=6.11.1
 8	Διονύσιος	Διονύσιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	ref=6.11.1
-9	λέγων	λέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=6.11.1
+9	λέγων	λέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	orphan	_	ref=6.11.1
 10	τάδε	ὅδε	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	ref=6.11.1
 
 # source = Histories, Book 6, chapter 11
@@ -6153,12 +6153,12 @@
 # source = Histories, Book 7, chapter 81
 # text = ἑκατοντάρχας δὲ καὶ δεκάρχας οἱ μυριάρχαι
 # sent_id = 155440
-1	ἑκατοντάρχας	ἑκατοντάρχης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	0	root	_	ref=7.81.1
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=7.81.1
+1	ἑκατοντάρχας	ἑκατοντάρχης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	orphan	_	ref=7.81.1
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=7.81.1
 3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=7.81.1
 4	δεκάρχας	δεκάρχης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	conj	_	ref=7.81.1
 5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=7.81.1
-6	μυριάρχαι	μυριάρχης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=7.81.1
+6	μυριάρχαι	μυριάρχης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=7.81.1
 
 # source = Histories, Book 7, chapter 81
 # text = τελέων δὲ καὶ ἐθνέων ἦσαν ἄλλοι σημάντορες
@@ -6405,7 +6405,7 @@
 2	μὲν	μέν	ADV	Df	_	1	discourse	_	ref=7.84.1
 3	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=7.84.1
 4	αὐτὴν	αὐτός	PRON	Pd	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=7.84.1
-5	ἐσκευασμένοι	σκευάζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	ref=7.84.1
+5	ἐσκευασμένοι	σκευάζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	orphan	_	ref=7.84.1
 6	καὶ	καί	ADV	Df	_	4	advmod	_	ref=7.84.1|LId=2
 7	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=7.84.1
 8	πεζὸς	πεζός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj	_	ref=7.84.1
@@ -6644,7 +6644,7 @@
 2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=7.86.2
 3	καὶ	καί	ADV	Df	_	1	advmod	_	ref=7.86.2|LId=1
 4	αὐτοὶ	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	1	det	_	ref=7.86.2
-5	κατά	καθά	ADV	Dq	PronType=Rel	1	advcl	_	ref=7.86.2
+5	κατά	καθά	ADV	Dq	PronType=Rel	1	orphan	_	ref=7.86.2
 6	περ	πέρ	ADV	Df	_	5	discourse	_	ref=7.86.2
 7	ἐν	ἐν	ADP	R-	_	9	case	_	ref=7.86.2
 8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=7.86.2
@@ -6924,14 +6924,14 @@
 1	Φοίνικες	Φοῖνιξ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=7.89.1|LId=2
 2	μὲν	μέν	ADV	Df	_	1	discourse	_	ref=7.89.1
 3	σὺν	σύν	ADP	R-	_	4	case	_	ref=7.89.1
-4	Σύροισι	Σύρος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	ref=7.89.1
+4	Σύροισι	Σύρος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	orphan	_	ref=7.89.1
 5	τοῖσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=7.89.1
 6	ἐν	ἐν	ADP	R-	_	8	case	_	ref=7.89.1
 7	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=7.89.1
 8	Παλαιστίνῃ	Παλαιστίνη	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	ref=7.89.1
-9	τριηκοσίας	τριακόσιοι	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=7.89.1
+9	τριηκοσίας	τριακόσιοι	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	1	orphan	_	ref=7.89.1
 10	ὧδε	ὧδε	ADV	Df	_	11	advmod	_	ref=7.89.1
-11	ἐσκευασμένοι	σκευάζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	ref=7.89.1
+11	ἐσκευασμένοι	σκευάζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	orphan	_	ref=7.89.1
 
 # source = Histories, Book 7, chapter 89
 # text = περὶ μὲν τῇσι κεφαλῇσι κυνέας εἶχον ἀγχοτάτω πεποιημένας τρόπον τὸν Ἑλληνικόν ἐνδεδυκότες δὲ θώρηκας λινέους ἀσπίδας δὲ ἴτυς οὐκ ἐχούσας εἶχον καὶ ἀκόντια
@@ -7837,7 +7837,7 @@
 # text = εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν οὐ πολλῷ μᾶλλον ὑμᾶς ὀλιγόπιστοι
 # sent_id = 14864
 1	εἰ	εἰ	SCONJ	G-	_	17	mark	_	ref=MATT_6.30
-2	δὲ	δέ	ADV	Df	_	0	root	_	ref=MATT_6.30
+2	δὲ	δέ	ADV	Df	_	21	discourse	_	ref=MATT_6.30
 3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=MATT_6.30
 4	χόρτον	χόρτος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	ref=MATT_6.30
 5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=MATT_6.30
@@ -7852,12 +7852,12 @@
 14	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	ref=MATT_6.30
 15	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	ref=MATT_6.30
 16	οὕτως	οὕτω(ς)	ADV	Df	_	17	advmod	_	ref=MATT_6.30
-17	ἀμφιέννυσιν	ἀμφιέννυμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MATT_6.30
-18	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_6.30
+17	ἀμφιέννυσιν	ἀμφιέννυμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	orphan	_	ref=MATT_6.30
+18	οὐ	οὐ	ADV	Df	Polarity=Neg	21	orphan	_	ref=MATT_6.30
 19	πολλῷ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	advmod	_	ref=MATT_6.30
-20	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	2	advmod	_	ref=MATT_6.30
-21	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obj	_	ref=MATT_6.30
-22	ὀλιγόπιστοι	ὀλιγόπιστος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	2	vocative	_	ref=MATT_6.30
+20	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	21	orphan	_	ref=MATT_6.30
+21	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=MATT_6.30
+22	ὀλιγόπιστοι	ὀλιγόπιστος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	21	vocative	_	ref=MATT_6.30
 
 # source = The Greek New Testament, Matthew 6
 # text = μὴ οὖν μεριμνήσητε λέγοντες τί φάγωμεν ἤ τί πίωμεν ἤ τί περιβαλώμεθα
@@ -7991,11 +7991,11 @@
 # source = The Greek New Testament, Mark 6
 # text = πόθεν τούτῳ ταῦτα καὶ τίς ἡ σοφία ἡ δοθεῖσα τούτῳ
 # sent_id = 6772
-1	πόθεν	πόθεν	ADV	Du	PronType=Int	0	root	_	ref=MARK_6.2
-2	τούτῳ	οὗτος	PRON	Pd	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=MARK_6.2
-3	ταῦτα	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	ref=MARK_6.2
+1	πόθεν	πόθεν	ADV	Du	PronType=Int	3	orphan	_	ref=MARK_6.2
+2	τούτῳ	οὗτος	PRON	Pd	Case=Dat|Gender=Masc|Number=Sing	3	orphan	_	ref=MARK_6.2
+3	ταῦτα	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	0	root	_	ref=MARK_6.2
 4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=MARK_6.2
-5	τίς	τίς	PRON	Pi	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	1	conj	_	ref=MARK_6.2
+5	τίς	τίς	PRON	Pi	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	3	conj	_	ref=MARK_6.2
 6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=MARK_6.2
 7	σοφία	σοφία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=MARK_6.2
 8	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=MARK_6.2
@@ -8047,7 +8047,7 @@
 6	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=MARK_6.3
 7	ὧδε	ὧδε	ADV	Df	_	0	root	_	ref=MARK_6.3
 8	πρὸς	πρός	ADP	R-	_	9	case	_	ref=MARK_6.3
-9	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	7	parataxis	_	ref=MARK_6.3
+9	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	7	appos	_	ref=MARK_6.3
 
 # source = The Greek New Testament, Mark 6
 # text = καὶ ἐσκανδαλίζοντο ἐν αὐτῷ
@@ -8429,7 +8429,7 @@
 8	γενεσίοις	γενέσια	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	ref=MARK_6.21
 9	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	ref=MARK_6.21
 10	δεῖπνον	δεῖπνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=MARK_6.21
-11	ἐποίησεν	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MARK_6.21
+11	ἐποίησεν	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	ref=MARK_6.21
 12	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=MARK_6.21
 13	μεγιστᾶσιν	μεγιστάν	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	ref=MARK_6.21
 14	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	ref=MARK_6.21
@@ -9231,7 +9231,7 @@
 3	ἐὰν	ἄν	ADV	Df	_	4	advmod	_	ref=MARK_6.56
 4	εἰσεπορεύετο	εἰσπορεύομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	16	advcl	_	ref=MARK_6.56
 5	εἰς	εἰς	ADP	R-	_	6	case	_	ref=MARK_6.56
-6	κώμας	κώμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	parataxis	_	ref=MARK_6.56
+6	κώμας	κώμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	appos	_	ref=MARK_6.56
 7	ἢ	ἤ	CCONJ	C-	_	9	cc	_	ref=MARK_6.56
 8	εἰς	εἰς	ADP	R-	_	9	case	_	ref=MARK_6.56
 9	πόλεις	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	ref=MARK_6.56
@@ -10983,7 +10983,7 @@
 4	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	ref=LUKE_16.16
 5	προφῆται	προφήτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	ref=LUKE_16.16
 6	μέχρι	μέχρι	ADP	R-	_	7	case	_	ref=LUKE_16.16
-7	Ἰωάννου	Ἰωάν(ν)ης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=LUKE_16.16
+7	Ἰωάννου	Ἰωάν(ν)ης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	orphan	_	ref=LUKE_16.16
 
 # source = The Greek New Testament, Luke 16
 # text = ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται καὶ πᾶς εἰς αὐτὴν βιάζεται
@@ -11705,7 +11705,7 @@
 15	εἰς	εἰς	ADP	R-	_	17	case	_	ref=JOHN_6.15
 16	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	ref=JOHN_6.15
 17	ὄρος	ὄρος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	ref=JOHN_6.15|LId=1
-18	αὐτὸς	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	advcl	_	ref=JOHN_6.15
+18	αὐτὸς	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	parataxis	_	ref=JOHN_6.15
 19	μόνος	μόνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	orphan	_	ref=JOHN_6.15
 
 # source = The Greek New Testament, John 6
@@ -12873,8 +12873,8 @@
 # text = ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον
 # sent_id = 22303
 1	ἐὰν	ἐάν	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	οὖν	οὖν	ADV	Df	_	0	root	_	ref=JOHN_6.62
-3	θεωρῆτε	θεωρέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_6.62
+2	οὖν	οὖν	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
+3	θεωρῆτε	θεωρέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
 4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JOHN_6.62
 5	υἱὸν	υἱός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=JOHN_6.62
 6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JOHN_6.62
@@ -14360,10 +14360,10 @@
 # sent_id = 74880
 1	ὡς	ὡς	ADV	Df	_	3	mark	_	ref=ACTS_7.51
 2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=ACTS_7.51
-3	πατέρες	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=ACTS_7.51
+3	πατέρες	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	orphan	_	ref=ACTS_7.51
 4	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	det	_	ref=ACTS_7.51
 5	καὶ	καί	ADV	Df	_	6	advmod	_	ref=ACTS_7.51|LId=1
-6	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=ACTS_7.51
+6	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=ACTS_7.51
 
 # source = The Greek New Testament, Acts 7
 # text = τίνα τῶν προφητῶν οὐκ ἐδίωξαν οἱ πατέρες ὑμῶν
@@ -15642,7 +15642,7 @@
 # text = τοῖς μὲν καθ’ ὑπομονὴν ἔργου ἀγαθοῦ δόξαν καὶ τιμὴν καὶ ἀφθαρσίαν ζητοῦσιν ζωὴν αἰώνιον
 # sent_id = 63979
 1	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	12	det	_	ref=ROM_2.7
-2	μὲν	μέν	ADV	Df	_	0	root	_	ref=ROM_2.7
+2	μὲν	μέν	ADV	Df	_	13	discourse	_	ref=ROM_2.7
 3	καθ’	κατά	ADP	R-	_	4	case	_	ref=ROM_2.7
 4	ὑπομονὴν	ὑπομονή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	ref=ROM_2.7
 5	ἔργου	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=ROM_2.7
@@ -15652,26 +15652,26 @@
 9	τιμὴν	τιμή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=ROM_2.7
 10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=ROM_2.7
 11	ἀφθαρσίαν	ἀφθαρσία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=ROM_2.7
-12	ζητοῦσιν	ζητέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	obl	_	ref=ROM_2.7
-13	ζωὴν	ζωή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	ref=ROM_2.7
+12	ζητοῦσιν	ζητέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	orphan	_	ref=ROM_2.7
+13	ζωὴν	ζωή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=ROM_2.7
 14	αἰώνιον	αἰώνιος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	13	amod	_	ref=ROM_2.7
 
 # source = The Greek New Testament, Romans 2
 # text = τοῖς δὲ ἐξ ἐριθείας καὶ ἀπειθοῦσι τῇ ἀληθείᾳ πειθομένοις δὲ τῇ ἀδικίᾳ ὀργὴ καὶ θυμός
 # sent_id = 63980
 1	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	6	det	_	ref=ROM_2.8
-2	δὲ	δέ	ADV	Df	_	0	root	_	ref=ROM_2.8
+2	δὲ	δέ	ADV	Df	_	13	discourse	_	ref=ROM_2.8
 3	ἐξ	ἐκ	ADP	R-	_	4	case	_	ref=ROM_2.8
 4	ἐριθείας	ἐριθεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=ROM_2.8
-5	καὶ	καί	CCONJ	C-	_	2	cc	_	ref=ROM_2.8
-6	ἀπειθοῦσι	ἀπειθέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	obl	_	ref=ROM_2.8
+5	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=ROM_2.8
+6	ἀπειθοῦσι	ἀπειθέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	orphan	_	ref=ROM_2.8
 7	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=ROM_2.8
 8	ἀληθείᾳ	ἀλήθεια	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=ROM_2.8
 9	πειθομένοις	πείθω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	6	conj	_	ref=ROM_2.8
 10	δὲ	δέ	ADV	Df	_	9	discourse	_	ref=ROM_2.8
 11	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=ROM_2.8
 12	ἀδικίᾳ	ἀδικία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl:arg	_	ref=ROM_2.8
-13	ὀργὴ	ὀργή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=ROM_2.8
+13	ὀργὴ	ὀργή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=ROM_2.8
 14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=ROM_2.8
 15	θυμός	θυμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=ROM_2.8
 
@@ -15683,7 +15683,7 @@
 3	στενοχωρία	στενοχωρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=ROM_2.9
 4	ἐπὶ	ἐπί	ADP	R-	_	6	case	_	ref=ROM_2.9
 5	πᾶσαν	πᾶς	DET	Px	Case=Acc|Gender=Fem|Number=Sing	6	det	_	ref=ROM_2.9
-6	ψυχὴν	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=ROM_2.9
+6	ψυχὴν	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	orphan	_	ref=ROM_2.9
 7	ἀνθρώπου	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=ROM_2.9
 8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	ref=ROM_2.9
 9	κατεργαζομένου	κατεργάζομαι	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	acl	_	ref=ROM_2.9
@@ -15706,7 +15706,7 @@
 6	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=ROM_2.10
 7	παντὶ	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	9	det	_	ref=ROM_2.10
 8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=ROM_2.10
-9	ἐργαζομένῳ	ἐργάζομαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	obl:arg	_	ref=ROM_2.10
+9	ἐργαζομένῳ	ἐργάζομαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	orphan	_	ref=ROM_2.10
 10	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	ref=ROM_2.10
 11	ἀγαθόν	ἀγαθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	obj	_	ref=ROM_2.10
 12	Ἰουδαίῳ	Ἰουδαῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	appos	_	ref=ROM_2.10
@@ -17456,7 +17456,7 @@
 # text = τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων
 # sent_id = 158936
 1	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=REV_5.13
-2	καθημένῳ	κάθημαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	0	root	_	ref=REV_5.13
+2	καθημένῳ	κάθημαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	10	orphan	_	ref=REV_5.13
 3	ἐπὶ	ἐπί	ADP	R-	_	5	case	_	ref=REV_5.13
 4	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=REV_5.13
 5	θρόνῳ	θρόνος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=REV_5.13
@@ -17464,7 +17464,7 @@
 7	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=REV_5.13
 8	ἀρνίῳ	ἀρνίον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	conj	_	ref=REV_5.13
 9	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=REV_5.13
-10	εὐλογία	εὐλογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=REV_5.13
+10	εὐλογία	εὐλογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=REV_5.13
 11	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=REV_5.13
 12	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=REV_5.13
 13	τιμὴ	τιμή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	ref=REV_5.13
@@ -17476,7 +17476,7 @@
 19	κράτος	κράτος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	ref=REV_5.13
 20	εἰς	εἰς	ADP	R-	_	22	case	_	ref=REV_5.13
 21	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	22	det	_	ref=REV_5.13
-22	αἰῶνας	αἰών	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	ref=REV_5.13
+22	αἰῶνας	αἰών	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	orphan	_	ref=REV_5.13
 23	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	24	det	_	ref=REV_5.13
 24	αἰώνων	αἰών	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	ref=REV_5.13
 
