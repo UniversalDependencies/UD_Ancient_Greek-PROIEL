@@ -7871,7 +7871,7 @@
 7	ἤ	ἤ	CCONJ	C-	_	4	ccomp	_	ref=MATT_6.31
 8	τί	τίς	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	ref=MATT_6.31
 9	πίωμεν	πίνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=MATT_6.31
-10	ἤ	ἤ	CCONJ	C-	_	7	cc	_	ref=MATT_6.31
+10	ἤ	ἤ	CCONJ	C-	_	7	fixed	_	ref=MATT_6.31
 11	τί	τίς	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	12	obj	_	ref=MATT_6.31
 12	περιβαλώμεθα	περιβάλλω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	ref=MATT_6.31
 
