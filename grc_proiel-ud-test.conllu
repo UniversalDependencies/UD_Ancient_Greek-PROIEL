@@ -5533,11 +5533,11 @@
 12	ἔχω	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6.14.1
 13	ἀτρεκέως	ἀτρεκέως	ADV	Df	Degree=Pos	14	advmod	_	ref=6.14.1
 14	συγγράψαι	συγγράφω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=6.14.1
-15	οἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	18	nsubj	_	ref=6.14.1
+15	οἵτινες	ὅστις	PRON	Pi	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	18	nsubj	_	ref=6.14.1
 16	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	ref=6.14.1
 17	Ἰώνων	Ἴων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	ref=6.14.1
 18	ἐγίνοντο	γίγνομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	14	ccomp	_	ref=6.14.1
-19	ἄνδρες	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	ref=6.14.1
+19	ἄνδρες	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	xcomp	_	ref=6.14.1
 20	κακοὶ	κακός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	ref=6.14.1
 21	ἢ	ἤ	CCONJ	C-	_	22	cc	_	ref=6.14.1
 22	ἀγαθοὶ	ἀγαθός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	20	conj	_	ref=6.14.1

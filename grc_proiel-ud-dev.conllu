@@ -6979,10 +6979,10 @@
 1	ἐπεὶ	ἐπεί	ADV	Df	_	18	advmod	_	ref=7.96.2
 2	στρατηγοί	στρατηγός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj:pass	_	ref=7.96.2
 3	γε	γε	ADV	Df	_	2	discourse	_	ref=7.96.2
-4	οἱ	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	aux	_	ref=7.96.2
+4	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=7.96.2
 5	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=7.96.2
 6	πᾶν	πᾶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	8	det	_	ref=7.96.2
-7	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	ref=7.96.2
+7	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	nmod	_	ref=7.96.2
 8	κράτος	κράτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	ref=7.96.2
 9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=7.96.2
 10	ἄρχοντες	ἄρχων	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	ref=7.96.2
@@ -16127,11 +16127,11 @@
 9	ποιήμασιν	ποίημα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	ref=ROM_1.20
 10	νοούμενα	νοέω	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	11	advcl	_	ref=ROM_1.20
 11	καθορᾶται	καθοράω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=ROM_1.20
-12	ἥ	ὅς	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	aux	_	ref=ROM_1.20
+12	ἥ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=ROM_1.20
 13	τε	τε	CCONJ	C-	_	16	cc	_	ref=ROM_1.20
 14	ἀΐδιος	ἀδΐος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	ref=ROM_1.20
 15	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	ref=ROM_1.20
-16	δύναμις	δύναμις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	acl	_	ref=ROM_1.20
+16	δύναμις	δύναμις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	ref=ROM_1.20
 17	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=ROM_1.20
 18	θειότης	θειότης	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	ref=ROM_1.20
 19	εἰς	εἰς	ADP	R-	_	23	case	_	ref=ROM_1.20
