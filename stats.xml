@@ -98,8 +98,8 @@
     <dep name="det">35596</dep>
     <dep name="discourse">11849</dep>
     <dep name="dislocated">399</dep>
-    <dep name="fixed">190</dep>
-    <dep name="flat:name">283</dep>
+    <dep name="fixed">189</dep>
+    <dep name="flat:name">284</dep>
     <dep name="mark">4299</dep>
     <dep name="nmod">8478</dep>
     <dep name="nsubj">13990</dep>
