@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 40a53b149758857270470aee2afb9b0604f36cb8
-Merge: c3d26dc dd1fc7d
+commit 06769cfafd4c4125807e2788aca4ebe79b8cbb3c
+Merge: a2cc634 930635a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 214005 of 214005 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7319987584698.
@@ -20,17 +20,23 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      10415
-Udapi: found 10415 bugs.
+               TOTAL      10379
+Udapi: found 10379 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 214005 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 [Line 746 Sent 64461 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
-Warnings: 1
+[Line 10323 Sent 20439 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 10357 Sent 20441 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 17066 Sent 32980 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μή'
+[Line 17385 Sent 32998 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μή'
+Warnings: 5
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
 [Line 3982 Sent 70102 Node 9]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-Warnings: 1
+[Line 7086 Sent 14823 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 7871 Sent 14865 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 10] 'ἤ * * ἤ'
+Warnings: 3
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 [Line 27 Sent 64362 Node 24]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
@@ -39,11 +45,11 @@ Warnings: 1
 [Line 8552 Sent 64882 Node 23]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 [Line 14384 Sent 65134 Node 25]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
 [Line 18854 Sent 65568 Node 22]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
+[Line 27284 Sent 69553 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μὴ'
 [Line 33787 Sent 69892 Node 12]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 [Line 43010 Sent 70403 Node 25]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-[Line 43011 Sent 70403 Node 26]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 ...suppressing further errors regarding Warning
-Warnings: 16
+Warnings: 30
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
@@ -52,8 +58,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.776807973432662) = 0.199181531649401
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.611764705882353) = 0.0470588235294118
-(weight=0.307692307692308) * (score{udapi}=0.513329127824116) = 0.157947423945882
+(weight=0.307692307692308) * (score{udapi}=0.515011331510946) = 0.158465025080291
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.635829375472173) * (availability=1) * (validity=1) = 0.635829375472173
+(TOTAL score=0.636346976606582) * (availability=1) * (validity=1) = 0.636346976606582
 STARS = 3
-UD_Ancient_Greek-PROIEL	0.635829375472173	3
+UD_Ancient_Greek-PROIEL	0.636346976606582	3
