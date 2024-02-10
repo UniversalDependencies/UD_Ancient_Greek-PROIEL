@@ -7795,8 +7795,8 @@
 2	δ’	δέ	ADV	Df	_	6	advmod	6:advmod	ref=MATT_5.22|proiel-id=765670
 3	ἂν	ἄν	ADV	Df	_	4	advmod	4:advmod	ref=MATT_5.22|proiel-id=765671
 4	εἴπῃ	λέγω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	nsubj	6:nsubj	ref=MATT_5.22|proiel-id=765672|information-status=quant
+4.1	_	_	PRON	_	_	_	_	4:obl	ref=MATT_5.22|proiel-id=1073410|information-status=non_spec_old|antecedent-proiel-id=268961
 5	μωρέ	μωρός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	4	obj	4:obj	ref=MATT_5.22|proiel-id=765673|information-status=old|antecedent-proiel-id=1073410
-5.1	_	_	PRON	_	_	_	_	4:obl	ref=MATT_5.22|proiel-id=1073410|information-status=non_spec_old|antecedent-proiel-id=268961
 6	ἔνοχος	ἔνοχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	ref=MATT_5.22|proiel-id=765674
 7	ἔσται	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	cop	6:cop	ref=MATT_5.22|proiel-id=765675|LId=1
 8	εἰς	εἰς	ADP	R-	_	10	case	10:case	ref=MATT_5.22|proiel-id=765676
