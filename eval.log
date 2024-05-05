@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 06769cfafd4c4125807e2788aca4ebe79b8cbb3c
-Merge: a2cc634 930635a
+commit 9c528289bd334d762cce8e36f56d5688468b91de
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 11:25:50 2023 +0100
 Size: counted 214005 of 214005 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7319987584698.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -48,6 +48,7 @@ Warnings: 3
 [Line 27284 Sent 69553 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μὴ'
 [Line 33787 Sent 69892 Node 12]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 [Line 43010 Sent 70403 Node 25]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 43011 Sent 70403 Node 26]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 ...suppressing further errors regarding Warning
 Warnings: 30
 *** PASSED ***
