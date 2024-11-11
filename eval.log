@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 9c528289bd334d762cce8e36f56d5688468b91de
+commit 3b4feea9228ff2e87ab53c0f86276b67b709b686
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:25:50 2023 +0100
+Date:   Sun May 5 11:48:37 2024 +0200
 Size: counted 214005 of 214005 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7319987584698.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -26,31 +26,34 @@ Udapi: worst expected case (threshold) is one bug per 10 words. There are 214005
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 [Line 746 Sent 64461 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
+[Line 1805 Sent 65173 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:τινος:det --> 8:οἰκετέων:nmod)
 [Line 10323 Sent 20439 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
 [Line 10357 Sent 20441 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
 [Line 17066 Sent 32980 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μή'
 [Line 17385 Sent 32998 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μή'
-Warnings: 5
+Warnings: 6
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
 [Line 3982 Sent 70102 Node 9]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 6335 Sent 72020 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:τοιαύτην:det --> 7:εἴρηται:acl)
 [Line 7086 Sent 14823 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
 [Line 7871 Sent 14865 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 10] 'ἤ * * ἤ'
-Warnings: 3
+[Line 11849 Sent 22239 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:ἄλλο:det --> 17:εἰ:amod)
+Warnings: 5
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 [Line 27 Sent 64362 Node 24]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
+[Line 2223 Sent 64573 Node 26]: [L3 Warning leaf-det] 'det' not expected to have children (26:οὐδὲν:det --> 25:παράπαν:nmod)
 [Line 6451 Sent 64773 Node 22]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 7232 Sent 81355 Node 10]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
 [Line 8552 Sent 64882 Node 23]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 [Line 14384 Sent 65134 Node 25]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 15286 Sent 65399 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:μηδὲν:det --> 8:εἰ:amod)
+[Line 16587 Sent 65465 Node 24]: [L3 Warning leaf-det] 'det' not expected to have children (24:μηδεμίαν:det --> 21:γῆς:nmod)
+[Line 18244 Sent 65541 Node 37]: [L3 Warning leaf-det] 'det' not expected to have children (37:ἄλλα:det --> 42:χαλκὸς:acl)
 [Line 18854 Sent 65568 Node 22]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 27284 Sent 69553 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μὴ'
-[Line 33787 Sent 69892 Node 12]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 43010 Sent 70403 Node 25]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-[Line 43011 Sent 70403 Node 26]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 ...suppressing further errors regarding Warning
-Warnings: 30
+Warnings: 76
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
