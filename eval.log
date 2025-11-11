@@ -1,7 +1,108 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Ancient_Greek-PROIEL:
+commit 49b72dbcd51ad4c94a154e660197e775a5252445
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:38:42 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'grc_proiel'
+Language code (from CoNLL-U file name) = 'grc'
+Found the following data files: grc_proiel-ud-dev.conllu, grc_proiel-ud-test.conllu, grc_proiel-ud-train.conllu
+Size: counted 214005 of 214005 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.7319987584698.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 160389 out of 214005 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 29 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
+[Line 38 Sent 64430]: [L3 Warning pron-det-without-prontype] The word 'ταῦτα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 135 Sent 64435]: [L3 Warning pron-det-without-prontype] The word 'οὐδέν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 167 Sent 64437]: [L3 Warning pron-det-without-prontype] The word 'οὐδὲν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 200 Sent 64439]: [L3 Warning pron-det-without-prontype] The word 'τάδε' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 237 Sent 64441]: [L3 Warning pron-det-without-prontype] The word 'αὐτόν' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 246 Sent 64441]: [L3 Warning pron-det-without-prontype] The word 'πάντα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 262 Sent 64442]: [L3 Warning pron-det-without-prontype] The word 'κεῖνόν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 265 Sent 64442]: [L3 Warning pron-det-without-prontype] The word 'ταῦτα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 303 Sent 75039]: [L3 Warning pron-det-without-prontype] The word 'τοιαύτην' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 322 Sent 64444]: [L3 Warning pron-det-without-prontype] The word 'αὐτὸν' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 1805 Sent 65173]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τινος:det --> 8:οἰκετέων:nmod)
+[Line 2562 Sent 65204]: [L3 Syntax too-many-objects] Multiple direct objects [4, 5] ('ταῦτα', 'τοῦτον') under the predicate 'ἐποίησα'.
+[Line 2765 Sent 75684]: [L3 Syntax too-many-objects] Multiple direct objects [8, 9] ('τάδε', 'αὐτὸν') under the predicate 'εἴρετο'.
+[Line 3792 Sent 70041]: [L3 Syntax too-many-objects] Multiple direct objects [10, 16] ('γνώμην', 'ἀπιγμένα') under the predicate 'ἐκφήνας'.
+Syntax errors: 4
+Warnings: 522
+*** FAILED *** with 4 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
+[Line 16 Sent 64491]: [L3 Warning pron-det-without-prontype] The word 'τάδε' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 18 Sent 64491]: [L3 Warning pron-det-without-prontype] The word 'τούτοισι' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 44 Sent 64491]: [L3 Warning pron-det-without-prontype] The word 'τι' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 68 Sent 64493]: [L3 Warning pron-det-without-prontype] The word 'ταῦτα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 108 Sent 75552]: [L3 Warning pron-det-without-prontype] The word 'πάντα' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 117 Sent 75552]: [L3 Warning pron-det-without-prontype] The word 'τοιάδε' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 132 Sent 64495]: [L3 Warning pron-det-without-prontype] The word 'τοῦτον' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 133 Sent 64495]: [L3 Warning pron-det-without-prontype] The word 'πάντα' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 146 Sent 64495]: [L3 Warning pron-det-without-prontype] The word 'πάντας' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 156 Sent 64496]: [L3 Warning pron-det-without-prontype] The word 'ταῦτα' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 2779 Sent 65350]: [L3 Syntax too-many-objects] Multiple direct objects [12, 14] ('ὅ', 'μιν') under the predicate 'αἱρέει'.
+[Line 3282 Sent 65377]: [L3 Syntax too-many-objects] Multiple direct objects [4, 10] ('παῖδας', 'τρία') under the predicate 'παιδεύουσι'.
+[Line 3376 Sent 65380]: [L3 Syntax too-many-objects] Multiple direct objects [29, 34] ('οἰκετέων', 'πάθος') under the predicate 'ἔρδειν'.
+[Line 6335 Sent 72020]: [L3 Syntax leaf-det] 'det' not expected to have children (3:τοιαύτην:det --> 7:εἴρηται:acl)
+[Line 8473 Sent 6796]: [L3 Syntax too-many-objects] Multiple direct objects [2, 5] ('με', 'θέλῃς') under the predicate 'αἴτησόν'.
+[Line 8496 Sent 57369]: [L3 Syntax too-many-objects] Multiple direct objects [1, 3] ('ὃ', 'με') under the predicate 'αἰτήσῃς'.
+[Line 8766 Sent 6814]: [L3 Syntax too-many-objects] Multiple direct objects [20, 21] ('αὐτοὺς', 'πολλά') under the predicate 'διδάσκειν'.
+[Line 11849 Sent 22239]: [L3 Syntax leaf-det] 'det' not expected to have children (13:ἄλλο:det --> 17:εἰ:amod)
+Syntax errors: 8
+Warnings: 530
+*** FAILED *** with 8 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
+[Line 8 Sent 64362]: [L3 Warning pron-det-without-prontype] The word 'ἥδε' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 27 Sent 64362]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
+[Line 36 Sent 64362]: [L3 Warning pron-det-without-prontype] The word 'ἄλλα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 62 Sent 64364]: [L3 Warning pron-det-without-prontype] The word 'τούτους' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 71 Sent 64364]: [L3 Warning pron-det-without-prontype] The word 'τήνδε' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 76 Sent 64364]: [L3 Warning pron-det-without-prontype] The word 'τοῦτον' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 110 Sent 64365]: [L3 Warning pron-det-without-prontype] The word 'τοῦτον' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 134 Sent 64366]: [L3 Warning pron-det-without-prontype] The word 'τοῦτο' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 153 Sent 64367]: [L3 Warning pron-det-without-prontype] The word 'πάντων' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 191 Sent 64369]: [L3 Warning pron-det-without-prontype] The word 'ταύτας' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 2223 Sent 64573]: [L3 Syntax leaf-det] 'det' not expected to have children (26:οὐδὲν:det --> 25:παράπαν:nmod)
+[Line 15286 Sent 65399]: [L3 Syntax leaf-det] 'det' not expected to have children (6:μηδὲν:det --> 8:εἰ:amod)
+[Line 16587 Sent 65465]: [L3 Syntax leaf-det] 'det' not expected to have children (24:μηδεμίαν:det --> 21:γῆς:nmod)
+[Line 18082 Sent 65533]: [L3 Syntax too-many-objects] Multiple direct objects [4, 9] ('τοῦτό', 'Φωκαιέας') under the predicate 'ἔπειθε'.
+[Line 18098 Sent 65533]: [L3 Syntax too-many-objects] Multiple direct objects [22, 25] ('τεῖχος', 'πόλιν') under the predicate 'περιβαλέσθαι'.
+[Line 18244 Sent 65541]: [L3 Syntax leaf-det] 'det' not expected to have children (37:ἄλλα:det --> 42:χαλκὸς:acl)
+[Line 20439 Sent 65656]: [L3 Syntax leaf-det] 'det' not expected to have children (19:τοσαῦται:det --> 20:ἀριθμόν:nmod)
+[Line 22380 Sent 65741]: [L3 Syntax leaf-det] 'det' not expected to have children (4:τοσοῦτο:det --> 23:προσετετάχατο:acl)
+[Line 26008 Sent 68968]: [L3 Syntax too-many-objects] Multiple direct objects [21, 28] ('κατασωχόμενον', 'σῶμα') under the predicate 'καταπλάσσονται'.
+[Line 28152 Sent 69598]: [L3 Syntax leaf-det] 'det' not expected to have children (4:αὐτοῖσι:det --> 7:καὶ:acl)
+...suppressing further errors regarding Syntax
+Syntax errors: 96
+Warnings: 7652
+*** FAILED *** with 96 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.776807973432662) = 0.287706656826912
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.611764705882353) = 0.0679738562091503
+(weight=0.111111111111111) * (score{udeprels}=0.627027027027027) = 0.0696696696696697
+(TOTAL score=0.689547713569929) * (availability=1) * (validity=0.01) = 0.00689547713569929
+STARS = 0
+UD_Ancient_Greek-PROIEL	0.00689547713569929	0
