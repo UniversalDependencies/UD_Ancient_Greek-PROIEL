@@ -4792,7 +4792,7 @@
 11	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	Ref=5.113.1
 12	αὐτὸ	αὐτός	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	Ref=5.113.1
 13	τοῖσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	Ref=5.113.1
-14	Κουριεῦσι	Κουριεύς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	obl	_	Ref=5.113.1
+14	Κουριεῦσι	Κουριεύς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	nmod	_	Ref=5.113.1
 15	ἐποίεε	ποιέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=5.113.1
 
 # source = Histories, Book 5, chapter 113
@@ -5126,7 +5126,7 @@
 12	Κᾶρας	Κάρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	17	nsubj	_	Ref=5.117.1
 13	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	Ref=5.117.1
 14	αὐτὸ	αὐτός	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	Ref=5.117.1
-15	Ἴωσι	Ἴων	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=5.117.1
+15	Ἴωσι	Ἴων	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	14	nmod	_	Ref=5.117.1
 16	φρονήσαντας	φρονέω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	17	advcl	_	Ref=5.117.1
 17	ἀπεστάναι	ἀφίστημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	ccomp	_	Ref=5.117.1
 18	ἀπὸ	ἀπό	ADP	R-	_	19	case	_	Ref=5.117.1

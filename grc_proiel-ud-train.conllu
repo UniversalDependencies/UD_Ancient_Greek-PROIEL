@@ -32650,7 +32650,7 @@
 13	σπουδαὶ	σπουδή	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Ref=5.5.1
 14	ἰσχυραὶ	ἰσχυρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	Ref=5.5.1
 15	περὶ	περί	ADP	R-	_	16	case	_	Ref=5.5.1
-16	τοῦδε	ὅδε	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	Ref=5.5.1
+16	τοῦδε	ὅδε	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	Ref=5.5.1
 17	ἥτις	ὅστις	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	19	nsubj:pass	_	Ref=5.5.1
 18	αὐτέων	αὐτός	PRON	Pp	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	17	nmod	_	Ref=5.5.1
 19	ἐφιλέετο	φιλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	acl	_	Ref=5.5.1
@@ -32994,7 +32994,7 @@
 11	πέντε	πέντε	NUM	Ma	_	12	nummod	_	Ref=5.9.2
 12	δακτύλους	δάκτυλος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	Ref=5.9.2
 13	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	Ref=5.9.2
-14	βάθος	βάθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	Ref=5.9.2
+14	βάθος	βάθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	Ref=5.9.2
 15	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	16	det	_	Ref=5.9.2
 16	τριχῶν	θρίξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	Ref=5.9.2
 17	μικροὺς	μικρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	Ref=5.9.2
@@ -56400,7 +56400,7 @@
 17	ἐξενείκασθαι	ἐκφέρω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	5	conj	_	Ref=6.103.2
 18	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	Ref=6.103.2
 19	ὁμομητρίῳ	ὁμομήτριος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	Ref=6.103.2
-20	ἀδελφεῷ	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Ref=6.103.2
+20	ἀδελφεῷ	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	Ref=6.103.2
 21	Μιλτιάδῃ	Μιλτιάδης	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	20	appos	_	Ref=6.103.2
 
 # source = Histories, Book 6, chapter 103
@@ -61232,7 +61232,7 @@
 8	κατὰ	κατά	ADP	R-	_	10	case	_	Ref=7.3.1
 9	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	Ref=7.3.1
 10	αὐτὸ	αὐτός	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	Ref=7.3.1
-11	τούτοισι	οὗτος	PRON	Pd	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	Ref=7.3.1
+11	τούτοισι	οὗτος	PRON	Pd	Case=Dat|Gender=Neut|Number=Plur	10	nmod	_	Ref=7.3.1
 12	καὶ	καί	CCONJ	C-	_	13	cc	_	Ref=7.3.1
 13	Δημάρητος	Δημάρητος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=7.3.1
 14	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	Ref=7.3.1
@@ -64980,7 +64980,7 @@
 8	πλὴν	πλήν	ADP	R-	_	11	case	_	Ref=7.21.1
 9	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	Ref=7.21.1
 10	μεγάλων	μέγας	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	Ref=7.21.1
-11	ποταμῶν	ποταμός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	Ref=7.21.1
+11	ποταμῶν	ποταμός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Ref=7.21.1
 
 # source = Histories, Book 7, chapter 21
 # text = οἳ μὲν γὰρ νέας παρείχοντο
@@ -70955,7 +70955,7 @@
 10	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	Ref=7.72.1
 11	αὐτὴν	αὐτός	PRON	Pd	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	Ref=7.72.1
 12	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	Ref=7.72.1
-13	Παφλαγόσι	Παφλαγών	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	Ref=7.72.1
+13	Παφλαγόσι	Παφλαγών	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	nmod	_	Ref=7.72.1
 14	ἐστρατεύοντο	στρατεύω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=7.72.1
 
 # source = Histories, Book 7, chapter 72
@@ -73107,7 +73107,7 @@
 20	μάλιστά	μάλα	ADV	Df	Degree=Sup	18	advmod	_	Ref=7.109.2
 21	κῃ	πῃ	ADV	Df	_	18	discourse	_	Ref=7.109.2
 22	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	Ref=7.109.2
-23	περίοδον	περίοδος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	Ref=7.109.2
+23	περίοδον	περίοδος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	Ref=7.109.2
 24	ἰχθυώδης	ἰχθυώδης	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	Ref=7.109.2
 25	τε	τε	CCONJ	C-	_	28	cc	_	Ref=7.109.2
 26	καὶ	καί	CCONJ	C-	_	28	cc	_	Ref=7.109.2
@@ -78958,7 +78958,7 @@
 7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	Ref=7.156.2
 8	αὐτὸ	αὐτός	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	Ref=7.156.2
 9	τοῖσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	Ref=7.156.2
-10	Καμαριναίοισι	Καμαριναῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	8	obl	_	Ref=7.156.2
+10	Καμαριναίοισι	Καμαριναῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	8	nmod	_	Ref=7.156.2
 11	ἐποίησε	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=7.156.2
 
 # source = Histories, Book 7, chapter 156
@@ -87937,7 +87937,7 @@
 2	δὲ	δέ	ADV	Df	_	3	discourse	_	Ref=7.227.1
 3	εὐδοκίμεε	εὐδοκιμέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=7.227.1
 4	μάλιστα	μάλα	ADV	Df	Degree=Sup	3	advmod	_	Ref=7.227.1
-5	τῷ	ὁ	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	8	obl:arg	_	Ref=7.227.1
+5	τῷ	ὁ	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	8	nmod	_	Ref=7.227.1
 6	οὔνομα	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Ref=7.227.1
 7	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	LId=1|Ref=7.227.1
 8	Διθύραμβος	Διθύραμβος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=7.227.1
@@ -97390,7 +97390,7 @@
 8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	Ref=MATT_12.40
 9	κήτους	κῆτος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	Ref=MATT_12.40
 10	τρεῖς	τρεῖς	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	11	nummod	_	Ref=MATT_12.40
-11	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obl	_	Ref=MATT_12.40
+11	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	nmod	_	Ref=MATT_12.40
 12	καὶ	καί	CCONJ	C-	_	14	cc	_	Ref=MATT_12.40
 13	τρεῖς	τρεῖς	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	14	nummod	_	Ref=MATT_12.40
 14	νύκτας	νύξ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	conj	_	Ref=MATT_12.40
@@ -135056,7 +135056,7 @@
 5	λόγους	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	Ref=LUKE_9.28
 6	τούτους	οὗτος	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	5	det	_	Ref=LUKE_9.28
 7	ὡσεὶ	ὡσεί	ADV	Df	_	9	advmod	_	Ref=LUKE_9.28
-8	ἡμέραι	ἡμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	obl	_	Ref=LUKE_9.28
+8	ἡμέραι	ἡμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nmod	_	Ref=LUKE_9.28
 9	ὀκτώ	ὀκτώ	NUM	Ma	_	8	nummod	_	Ref=LUKE_9.28
 
 # source = The Greek New Testament, Luke 9
@@ -152627,7 +152627,7 @@
 5	σοῦ	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	14	dislocated	_	Ref=JOHN_3.26
 6	πέραν	πέραν	ADP	R-	_	8	case	_	Ref=JOHN_3.26
 7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	Ref=JOHN_3.26
-8	Ἰορδάνου	Ἰορδάνης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Ref=JOHN_3.26
+8	Ἰορδάνου	Ἰορδάνης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Ref=JOHN_3.26
 9	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	11	obl:arg	_	Ref=JOHN_3.26
 10	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Ref=JOHN_3.26
 11	μεμαρτύρηκας	μαρτυρέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	14	dislocated	_	Ref=JOHN_3.26
@@ -189006,10 +189006,10 @@
 3	ὡς	ὡς	ADV	Dq	PronType=Rel	11	advcl	_	Ref=ROM_5.18
 4	δι’	διά	ADP	R-	_	6	case	_	Ref=ROM_5.18
 5	ἑνὸς	εἷς	NUM	Ma	Case=Gen|Gender=Masc,Neut|Number=Sing	6	nummod	_	Ref=ROM_5.18
-6	παραπτώματος	παράπτωμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	obl	_	Ref=ROM_5.18
+6	παραπτώματος	παράπτωμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	Ref=ROM_5.18
 7	εἰς	εἰς	ADP	R-	_	9	case	_	Ref=ROM_5.18
 8	πάντας	πᾶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	9	det	_	Ref=ROM_5.18
-9	ἀνθρώπους	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Ref=ROM_5.18
+9	ἀνθρώπους	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	nmod	_	Ref=ROM_5.18
 10	εἰς	εἰς	ADP	R-	_	11	case	_	Ref=ROM_5.18
 11	κατάκριμα	κατάκριμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	dislocated	_	Ref=ROM_5.18
 12	οὕτως	οὕτω(ς)	ADV	Df	_	21	advmod	_	Ref=ROM_5.18
@@ -209384,9 +209384,9 @@
 6	οἷοί	οἷος	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	1	dislocated	_	Ref=2COR_10.11
 7	ἐσμεν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	LId=1|Ref=2COR_10.11
 8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	Ref=2COR_10.11
-9	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=2COR_10.11
+9	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	Ref=2COR_10.11
 10	δι’	διά	ADP	R-	_	11	case	_	Ref=2COR_10.11
-11	ἐπιστολῶν	ἐπιστολή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	6	obl	_	Ref=2COR_10.11
+11	ἐπιστολῶν	ἐπιστολή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	Ref=2COR_10.11
 12	ἀπόντες	ἄπειμι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	LId=1|Ref=2COR_10.11
 13	τοιοῦτοι	τοιοῦτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	1	acl	_	Ref=2COR_10.11
 14	καὶ	καί	ADV	Df	_	15	advmod	_	LId=1|Ref=2COR_10.11
@@ -218102,7 +218102,7 @@
 # sent_id = 29921
 1	ἅτινα	ὅστις	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	4	nsubj	_	Ref=PHIL_3.7
 2	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	LId=1|Ref=PHIL_3.7
-3	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obl	_	Ref=PHIL_3.7
+3	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Ref=PHIL_3.7
 4	κέρδη	κέρδος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	dislocated	_	Ref=PHIL_3.7
 5	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Ref=PHIL_3.7
 6	ἥγημαι	ἡγέομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=PHIL_3.7
@@ -229387,7 +229387,7 @@
 10	ἀπιστίας	ἀπιστία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	Ref=HEB_3.12
 11	ἐν	ἐν	ADP	R-	_	13	case	_	Ref=HEB_3.12
 12	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	13	det	_	Ref=HEB_3.12
-13	ἀποστῆναι	ἀφίστημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	obl	_	Ref=HEB_3.12
+13	ἀποστῆναι	ἀφίστημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	advcl	_	Ref=HEB_3.12
 14	ἀπὸ	ἀπό	ADP	R-	_	15	case	_	Ref=HEB_3.12
 15	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	Ref=HEB_3.12
 16	ζῶντος	ζῶ	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	Ref=HEB_3.12

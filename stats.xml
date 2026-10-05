@@ -80,7 +80,7 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="36">
     <dep name="acl">3088</dep>
-    <dep name="advcl">11362</dep>
+    <dep name="advcl">11363</dep>
     <dep name="advcl:cmp">348</dep>
     <dep name="advmod">11010</dep>
     <dep name="amod">3700</dep>
@@ -101,15 +101,15 @@
     <dep name="fixed">189</dep>
     <dep name="flat:name">284</dep>
     <dep name="mark">4299</dep>
-    <dep name="nmod">8478</dep>
+    <dep name="nmod">8498</dep>
     <dep name="nsubj">13990</dep>
     <dep name="nsubj:outer">36</dep>
     <dep name="nsubj:pass">1944</dep>
     <dep name="nummod">982</dep>
     <dep name="obj">13759</dep>
-    <dep name="obl">14031</dep>
+    <dep name="obl">14011</dep>
     <dep name="obl:agent">478</dep>
-    <dep name="obl:arg">6017</dep>
+    <dep name="obl:arg">6016</dep>
     <dep name="orphan">1107</dep>
     <dep name="parataxis">340</dep>
     <dep name="root">17082</dep>

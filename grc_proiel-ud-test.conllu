@@ -5639,7 +5639,7 @@
 9	αὐτὸ	αὐτός	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Ref=6.14.3
 10	ἐποίευν	ποιέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=6.14.3
 11	τοῖσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	Ref=6.14.3
-12	Σαμίοισι	Σάμιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	obl	_	Ref=6.14.3
+12	Σαμίοισι	Σάμιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	nmod	_	Ref=6.14.3
 
 # source = Histories, Book 6, chapter 14
 # text = ὣς δὲ καὶ οἱ πλεῦνες τῶν Ἰώνων ἐποίευν τὰ αὐτὰ ταῦτα
