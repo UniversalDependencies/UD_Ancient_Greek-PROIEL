@@ -236319,7 +236319,7 @@
 # source = The Greek New Testament, Titus 1
 # text = Παῦλος δοῦλος θεοῦ ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατ’ εὐσέβειαν ἐπ’ ἐλπίδι ζωῆς αἰωνίου ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων ἐφανέρωσεν δὲ καιροῖς ἰδίοις τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατ’ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν
 # sent_id = 30953
-# parallel_id = bible/tit-1-1
+# parallel_id = bible/titus-1-1
 1	Παῦλος	Παῦλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TIT_1.1
 2	δοῦλος	δοῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	LId=2|Ref=TIT_1.1
 3	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TIT_1.1
@@ -236377,7 +236377,7 @@
 # source = The Greek New Testament, Titus 1
 # text = χάρις καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ σωτῆρος ἡμῶν
 # sent_id = 30954
-# parallel_id = bible/tit-1-4
+# parallel_id = bible/titus-1-4
 1	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TIT_1.4
 2	καὶ	καί	CCONJ	C-	_	3	cc	_	Ref=TIT_1.4
 3	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Ref=TIT_1.4
@@ -236394,7 +236394,7 @@
 # source = The Greek New Testament, Titus 1
 # text = Τούτου χάριν ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους ὡς ἐγώ σοι διεταξάμην εἴ τίς ἐστιν ἀνέγκλητος μιᾶς γυναικὸς ἀνήρ τέκνα ἔχων πιστά μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα
 # sent_id = 30955
-# parallel_id = bible/tit-1-5
+# parallel_id = bible/titus-1-5
 1	Τούτου	οὗτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	Ref=TIT_1.5
 2	χάριν	χάριν	ADP	R-	_	1	case	_	Ref=TIT_1.5
 3	ἀπέλιπόν	ἀπολείπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.5
@@ -236434,7 +236434,7 @@
 # source = The Greek New Testament, Titus 1
 # text = δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον μὴ αὐθάδη μὴ ὀργίλον μὴ πάροινον μὴ πλήκτην μὴ αἰσχροκερδῆ ἀλλὰ φιλόξενον φιλάγαθον σώφρονα δίκαιον ὅσιον ἐγκρατῆ ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν
 # sent_id = 30956
-# parallel_id = bible/tit-1-7
+# parallel_id = bible/titus-1-7
 1	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.7
 2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	Ref=TIT_1.7
 3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Ref=TIT_1.7
@@ -236486,7 +236486,7 @@
 # source = The Greek New Testament, Titus 1
 # text = Εἰσὶν γὰρ πολλοὶ ἀνυπότακτοι ματαιολόγοι καὶ φρεναπάται μάλιστα οἱ ἐκ τῆς περιτομῆς οὓς δεῖ ἐπιστομίζειν οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν
 # sent_id = 30957
-# parallel_id = bible/tit-1-10
+# parallel_id = bible/titus-1-10
 1	Εἰσὶν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=TIT_1.10
 2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	Ref=TIT_1.10
 3	πολλοὶ	πολύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	Ref=TIT_1.10
@@ -236517,7 +236517,7 @@
 # source = The Greek New Testament, Titus 1
 # text = εἶπέν τις ἐξ αὐτῶν ἴδιος αὐτῶν προφήτης
 # sent_id = 30958
-# parallel_id = bible/tit-1-12/part1
+# parallel_id = bible/titus-1-12/part1
 1	εἶπέν	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.12
 2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TIT_1.12
 3	ἐξ	ἐκ	ADP	R-	_	4	case	_	Ref=TIT_1.12
@@ -236529,7 +236529,7 @@
 # source = The Greek New Testament, Titus 1
 # text = Κρῆτες ἀεὶ ψεῦσται κακὰ θηρία γαστέρες ἀργαί
 # sent_id = 64176
-# parallel_id = bible/tit-1-12/part2
+# parallel_id = bible/titus-1-12/part2
 1	Κρῆτες	Κρής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=TIT_1.12
 2	ἀεὶ	ἀεί	ADV	Df	_	3	advmod	_	Ref=TIT_1.12
 3	ψεῦσται	ψεύστης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=TIT_1.12
@@ -236541,7 +236541,7 @@
 # source = The Greek New Testament, Titus 1
 # text = ἡ μαρτυρία αὕτη ἐστὶν ἀληθής
 # sent_id = 30959
-# parallel_id = bible/tit-1-13/part1
+# parallel_id = bible/titus-1-13/part1
 1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Ref=TIT_1.13
 2	μαρτυρία	μαρτυρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=TIT_1.13
 3	αὕτη	οὗτος	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	2	det	_	Ref=TIT_1.13
@@ -236551,7 +236551,7 @@
 # source = The Greek New Testament, Titus 1
 # text = δι’ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως ἵνα ὑγιαίνωσιν ἐν τῇ πίστει μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις καὶ ἐντολαῖς ἀνθρώπων ἀποστρεφομένων τὴν ἀλήθειαν
 # sent_id = 30960
-# parallel_id = bible/tit-1-13/part2
+# parallel_id = bible/titus-1-13/part2
 1	δι’	διά	ADP	R-	_	3	case	_	Ref=TIT_1.13
 2	ἣν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	3	acl	_	Ref=TIT_1.13
 3	αἰτίαν	αἰτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	advcl	_	Ref=TIT_1.13
@@ -236577,7 +236577,7 @@
 # source = The Greek New Testament, Titus 1
 # text = πάντα καθαρὰ τοῖς καθαροῖς
 # sent_id = 30961
-# parallel_id = bible/tit-1-15/part1
+# parallel_id = bible/titus-1-15/part1
 1	πάντα	πᾶς	PRON	Px	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Ref=TIT_1.15
 2	καθαρὰ	καθαρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	Ref=TIT_1.15
 3	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	4	det	_	Ref=TIT_1.15
@@ -236586,7 +236586,7 @@
 # source = The Greek New Testament, Titus 1
 # text = τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις
 # sent_id = 30962
-# parallel_id = bible/tit-1-15/part2
+# parallel_id = bible/titus-1-15/part2
 1	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	3	det	_	Ref=TIT_1.15
 2	δὲ	δέ	ADV	Df	_	7	discourse	_	Ref=TIT_1.15
 3	μεμιαμμένοις	μιαίνω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	obl	_	Ref=TIT_1.15
@@ -236607,7 +236607,7 @@
 # source = The Greek New Testament, Titus 1
 # text = θεὸν ὁμολογοῦσιν εἰδέναι
 # sent_id = 30963
-# parallel_id = bible/tit-1-16/part1
+# parallel_id = bible/titus-1-16/part1
 1	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Ref=TIT_1.16
 2	ὁμολογοῦσιν	ὁμολογέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.16
 3	εἰδέναι	οἶδα	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	Ref=TIT_1.16
@@ -236615,7 +236615,7 @@
 # source = The Greek New Testament, Titus 1
 # text = τοῖς δὲ ἔργοις ἀρνοῦνται βδελυκτοὶ ὄντες καὶ ἀπειθεῖς καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι
 # sent_id = 64177
-# parallel_id = bible/tit-1-16/part2
+# parallel_id = bible/titus-1-16/part2
 1	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	3	det	_	Ref=TIT_1.16
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	Ref=TIT_1.16
 3	ἔργοις	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	obl	_	Ref=TIT_1.16
@@ -236634,7 +236634,7 @@
 # source = The Greek New Testament, Titus 2
 # text = Σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ
 # sent_id = 30964
-# parallel_id = bible/tit-2-1
+# parallel_id = bible/titus-2-1
 1	Σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=TIT_2.1
 2	δὲ	δέ	ADV	Df	_	3	discourse	_	Ref=TIT_2.1
 3	λάλει	λαλέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_2.1
@@ -236647,7 +236647,7 @@
 # source = The Greek New Testament, Titus 2
 # text = πρεσβύτας νηφαλίους εἶναι σεμνούς σώφρονας ὑγιαίνοντας τῇ πίστει τῇ ἀγάπῃ τῇ ὑπομονῇ
 # sent_id = 30965
-# parallel_id = bible/tit-2-2
+# parallel_id = bible/titus-2-2
 1	πρεσβύτας	πρεσβύτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	nsubj	_	Ref=TIT_2.2
 2	νηφαλίους	νηφάλιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	0	root	_	Ref=TIT_2.2
 3	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	cop	_	LId=1|Ref=TIT_2.2
@@ -236664,7 +236664,7 @@
 # source = The Greek New Testament, Titus 2
 # text = πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς μὴ διαβόλους μὴ οἴνῳ πολλῷ δεδουλωμένας καλοδιδασκάλους ἵνα σωφρονίζωσιν τὰς νέας φιλάνδρους εἶναι φιλοτέκνους σώφρονας ἁγνάς οἰκουργούς ἀγαθάς ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται
 # sent_id = 30966
-# parallel_id = bible/tit-2-3
+# parallel_id = bible/titus-2-3
 1	πρεσβύτιδας	πρεσβῦτις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	nsubj	_	Ref=TIT_2.3
 2	ὡσαύτως	ὡσαύτως	ADV	Df	_	5	advmod	_	Ref=TIT_2.3
 3	ἐν	ἐν	ADP	R-	_	4	case	_	Ref=TIT_2.3
@@ -236703,7 +236703,7 @@
 # source = The Greek New Testament, Titus 2
 # text = Τοὺς νεωτέρους ὡσαύτως παρακάλει σωφρονεῖν περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων
 # sent_id = 30967
-# parallel_id = bible/tit-2-6
+# parallel_id = bible/titus-2-6
 1	Τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	Ref=TIT_2.6
 2	νεωτέρους	νέος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	4	obj	_	Ref=TIT_2.6
 3	ὡσαύτως	ὡσαύτως	ADV	Df	_	4	advmod	_	Ref=TIT_2.6
@@ -236720,7 +236720,7 @@
 # source = The Greek New Testament, Titus 2
 # text = ἐν τῇ διδασκαλίᾳ ἀφθορίαν σεμνότητα λόγον ὑγιῆ ἀκατάγνωστον ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον
 # sent_id = 64178
-# parallel_id = bible/tit-2-7
+# parallel_id = bible/titus-2-7
 1	ἐν	ἐν	ADP	R-	_	3	case	_	Ref=TIT_2.7
 2	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TIT_2.7
 3	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	orphan	_	Ref=TIT_2.7
@@ -236744,7 +236744,7 @@
 # source = The Greek New Testament, Titus 2
 # text = Δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι ἐν πᾶσιν εὐαρέστους εἶναι μὴ ἀντιλέγοντας μὴ νοσφιζομένους ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν
 # sent_id = 30968
-# parallel_id = bible/tit-2-9
+# parallel_id = bible/titus-2-9
 1	Δούλους	δοῦλος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TIT_2.9
 2	ἰδίοις	ἴδιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	3	amod	_	Ref=TIT_2.9
 3	δεσπόταις	δεσπότης	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	obl:arg	_	Ref=TIT_2.9
@@ -236777,7 +236777,7 @@
 # source = The Greek New Testament, Titus 2
 # text = Ἐπεφάνη γὰρ ἡ χάρις τοῦ θεοῦ σωτήριος πᾶσιν ἀνθρώποις παιδεύουσα ἡμᾶς ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ ἐπιφάνειαν τῆς δόξης τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Χριστοῦ Ἰησοῦ ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον ζηλωτὴν καλῶν ἔργων
 # sent_id = 30969
-# parallel_id = bible/tit-2-11
+# parallel_id = bible/titus-2-11
 1	Ἐπεφάνη	ἐπιφαίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Ref=TIT_2.11
 2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	Ref=TIT_2.11
 3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TIT_2.11
@@ -236846,7 +236846,7 @@
 # source = The Greek New Testament, Titus 2
 # text = Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς
 # sent_id = 30970
-# parallel_id = bible/tit-2-15/part1
+# parallel_id = bible/titus-2-15/part1
 1	Ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Ref=TIT_2.15
 2	λάλει	λαλέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_2.15
 3	καὶ	καί	CCONJ	C-	_	4	cc	_	Ref=TIT_2.15
@@ -236860,7 +236860,7 @@
 # source = The Greek New Testament, Titus 2
 # text = μηδείς σου περιφρονείτω
 # sent_id = 30971
-# parallel_id = bible/tit-2-15/part2
+# parallel_id = bible/titus-2-15/part2
 1	μηδείς	μηδείς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=TIT_2.15
 2	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:arg	_	Ref=TIT_2.15
 3	περιφρονείτω	περιφρονέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_2.15
@@ -236868,7 +236868,7 @@
 # source = The Greek New Testament, Titus 3
 # text = Ὑπομίμνῃσκε αὐτοὺς ἀρχαῖς ἐξουσίαις ὑποτάσσεσθαι πειθαρχεῖν πρὸς πᾶν ἔργον ἀγαθὸν ἑτοίμους εἶναι μηδένα βλασφημεῖν ἀμάχους εἶναι ἐπιεικεῖς πᾶσαν ἐνδεικνυμένους πραΰτητα πρὸς πάντας ἀνθρώπους
 # sent_id = 30972
-# parallel_id = bible/tit-3-1
+# parallel_id = bible/titus-3-1
 1	Ὑπομίμνῃσκε	ὑπομιμνῄσκω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_3.1
 2	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	Ref=TIT_3.1
 3	ἀρχαῖς	ἀρχή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	5	obl:arg	_	Ref=TIT_3.1
@@ -236896,7 +236896,7 @@
 # source = The Greek New Testament, Titus 3
 # text = ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι ἀπειθεῖς πλανώμενοι δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις ἐν κακίᾳ καὶ φθόνῳ διάγοντες στυγητοί μισοῦντες ἀλλήλους
 # sent_id = 30973
-# parallel_id = bible/tit-3-3
+# parallel_id = bible/titus-3-3
 1	ἦμεν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	LId=1|Ref=TIT_3.3
 2	γάρ	γάρ	ADV	Df	_	6	discourse	_	Ref=TIT_3.3
 3	ποτε	ποτε	ADV	Df	_	6	advmod	_	Ref=TIT_3.3
@@ -236922,7 +236922,7 @@
 # source = The Greek New Testament, Titus 3
 # text = ὅτε δὲ ἡ χρηστότης καὶ ἡ φιλανθρωπία ἐπεφάνη τοῦ σωτῆρος ἡμῶν θεοῦ οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλινγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου οὗ ἐξέχεεν ἐφ’ ἡμᾶς πλουσίως διὰ Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν ἵνα δικαιωθέντες τῇ ἐκείνου χάριτι κληρονόμοι γενηθῶμεν κατ’ ἐλπίδα ζωῆς αἰωνίου
 # sent_id = 30974
-# parallel_id = bible/tit-3-4
+# parallel_id = bible/titus-3-4
 1	ὅτε	ὅτε	SCONJ	G-	_	8	mark	_	Ref=TIT_3.4
 2	δὲ	δέ	ADV	Df	_	27	discourse	_	Ref=TIT_3.4
 3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TIT_3.4
@@ -236984,7 +236984,7 @@
 # source = The Greek New Testament, Titus 3
 # text = πιστὸς ὁ λόγος καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες θεῷ
 # sent_id = 30975
-# parallel_id = bible/tit-3-8/part1
+# parallel_id = bible/titus-3-8/part1
 1	πιστὸς	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=TIT_3.8
 2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Ref=TIT_3.8
 3	λόγος	λόγος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TIT_3.8
@@ -237006,7 +237006,7 @@
 # source = The Greek New Testament, Titus 3
 # text = ταῦτά ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις
 # sent_id = 30976
-# parallel_id = bible/tit-3-8/part2
+# parallel_id = bible/titus-3-8/part2
 1	ταῦτά	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	Ref=TIT_3.8
 2	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=TIT_3.8
 3	καλὰ	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	Ref=TIT_3.8
@@ -237018,7 +237018,7 @@
 # source = The Greek New Testament, Titus 3
 # text = μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔριν καὶ μάχας νομικὰς περιΐστασο
 # sent_id = 30977
-# parallel_id = bible/tit-3-9/part1
+# parallel_id = bible/titus-3-9/part1
 1	μωρὰς	μωρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	Ref=TIT_3.9
 2	δὲ	δέ	ADV	Df	_	11	discourse	_	Ref=TIT_3.9
 3	ζητήσεις	ζήτησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	Ref=TIT_3.9
@@ -237034,7 +237034,7 @@
 # source = The Greek New Testament, Titus 3
 # text = εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι
 # sent_id = 64179
-# parallel_id = bible/tit-3-9/part2
+# parallel_id = bible/titus-3-9/part2
 1	εἰσὶν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=TIT_3.9
 2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	Ref=TIT_3.9
 3	ἀνωφελεῖς	ἀνωφελής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	0	root	_	Ref=TIT_3.9
@@ -237044,7 +237044,7 @@
 # source = The Greek New Testament, Titus 3
 # text = αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει ὢν αὐτοκατάκριτος
 # sent_id = 30978
-# parallel_id = bible/tit-3-10
+# parallel_id = bible/titus-3-10
 1	αἱρετικὸν	αἱρετικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	2	amod	_	Ref=TIT_3.10
 2	ἄνθρωπον	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Ref=TIT_3.10
 3	μετὰ	μετά	ADP	R-	_	4	case	_	Ref=TIT_3.10
@@ -237066,7 +237066,7 @@
 # source = The Greek New Testament, Titus 3
 # text = Ὅταν πέμψω Ἀρτεμᾶν πρὸς σὲ ἢ Τυχικόν σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν
 # sent_id = 30979
-# parallel_id = bible/tit-3-12/part1
+# parallel_id = bible/titus-3-12/part1
 1	Ὅταν	ὅταν	ADV	Dq	PronType=Rel	2	advcl	_	Ref=TIT_3.12
 2	πέμψω	πέμπω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=TIT_3.12
 3	Ἀρτεμᾶν	Ἀρτεμᾶς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Ref=TIT_3.12
@@ -237084,7 +237084,7 @@
 # source = The Greek New Testament, Titus 3
 # text = ἐκεῖ γὰρ κέκρικα παραχειμάσαι
 # sent_id = 64180
-# parallel_id = bible/tit-3-12/part2
+# parallel_id = bible/titus-3-12/part2
 1	ἐκεῖ	ἐκεῖ	ADV	Df	_	4	advmod	_	Ref=TIT_3.12
 2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	Ref=TIT_3.12
 3	κέκρικα	κρίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_3.12
@@ -237093,7 +237093,7 @@
 # source = The Greek New Testament, Titus 3
 # text = Ζηνᾶν τὸν νομικὸν καὶ Ἀπολλῶν σπουδαίως πρόπεμψον ἵνα μηδὲν αὐτοῖς λείπῃ
 # sent_id = 30980
-# parallel_id = bible/tit-3-13
+# parallel_id = bible/titus-3-13
 1	Ζηνᾶν	Ζηνᾶς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Ref=TIT_3.13
 2	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Ref=TIT_3.13
 3	νομικὸν	νομικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	Ref=TIT_3.13
@@ -237109,7 +237109,7 @@
 # source = The Greek New Testament, Titus 3
 # text = μανθανέτωσαν δὲ καὶ οἱ ἡμέτεροι καλῶν ἔργων προΐστασθαι εἰς τὰς ἀναγκαίας χρείας ἵνα μὴ ὦσιν ἄκαρποι
 # sent_id = 30981
-# parallel_id = bible/tit-3-14
+# parallel_id = bible/titus-3-14
 1	μανθανέτωσαν	μανθάνω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_3.14
 2	δὲ	δέ	ADV	Df	_	1	discourse	_	Ref=TIT_3.14
 3	καὶ	καί	ADV	Df	_	5	advmod	_	LId=1|Ref=TIT_3.14
@@ -237130,7 +237130,7 @@
 # source = The Greek New Testament, Titus 3
 # text = Ἀσπάζονταί σε οἱ μετ’ ἐμοῦ πάντες
 # sent_id = 30982
-# parallel_id = bible/tit-3-15/part1
+# parallel_id = bible/titus-3-15/part1
 1	Ἀσπάζονταί	ἀσπάζομαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TIT_3.15
 2	σε	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	Ref=TIT_3.15
 3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	Ref=TIT_3.15
@@ -237141,7 +237141,7 @@
 # source = The Greek New Testament, Titus 3
 # text = ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει
 # sent_id = 30983
-# parallel_id = bible/tit-3-15/part2
+# parallel_id = bible/titus-3-15/part2
 1	ἄσπασαι	ἀσπάζομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TIT_3.15
 2	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	Ref=TIT_3.15
 3	φιλοῦντας	φιλέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	Ref=TIT_3.15
@@ -237152,7 +237152,7 @@
 # source = The Greek New Testament, Titus 3
 # text = Ἡ χάρις μετὰ πάντων ὑμῶν
 # sent_id = 30984
-# parallel_id = bible/tit-3-15/part3
+# parallel_id = bible/titus-3-15/part3
 1	Ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Ref=TIT_3.15
 2	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=TIT_3.15
 3	μετὰ	μετά	ADP	R-	_	5	case	_	Ref=TIT_3.15
@@ -237162,7 +237162,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ
 # sent_id = 31027
-# parallel_id = bible/philem-1-1
+# parallel_id = bible/phlm-1-1
 1	Παῦλος	Παῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=PHILEM_1.1
 2	δέσμιος	δέσμιος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=PHILEM_1.1
 3	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=PHILEM_1.1
@@ -237196,7 +237196,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ
 # sent_id = 31028
-# parallel_id = bible/philem-1-3
+# parallel_id = bible/phlm-1-3
 1	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=PHILEM_1.3
 2	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	orphan	_	Ref=PHILEM_1.3
 3	καὶ	καί	CCONJ	C-	_	4	cc	_	Ref=PHILEM_1.3
@@ -237213,7 +237213,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Εὐχαριστῶ τῷ θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν
 # sent_id = 31029
-# parallel_id = bible/philem-1-4
+# parallel_id = bible/phlm-1-4
 1	Εὐχαριστῶ	εὐχαριστέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.4
 2	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	det	_	Ref=PHILEM_1.4
 3	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=PHILEM_1.4
@@ -237265,7 +237265,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ ἀδελφέ
 # sent_id = 31030
-# parallel_id = bible/philem-1-7
+# parallel_id = bible/phlm-1-7
 1	χαρὰν	χαρά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Ref=PHILEM_1.7
 2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	Ref=PHILEM_1.7
 3	πολλὴν	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	Ref=PHILEM_1.7
@@ -237289,7 +237289,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Διό πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ
 # sent_id = 31031
-# parallel_id = bible/philem-1-8
+# parallel_id = bible/phlm-1-8
 1	Διό	διό	ADV	Df	_	15	advmod	_	Ref=PHILEM_1.8
 2	πολλὴν	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Ref=PHILEM_1.8
 3	ἐν	ἐν	ADP	R-	_	4	case	_	Ref=PHILEM_1.8
@@ -237320,7 +237320,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου ὃν ἐγέννησα ἐν τοῖς δεσμοῖς Ὀνήσιμον τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον ὃν ἀνέπεμψά σοι αὐτόν τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα
 # sent_id = 64181
-# parallel_id = bible/philem-1-10
+# parallel_id = bible/phlm-1-10
 1	παρακαλῶ	παρακαλέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.10
 2	σε	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	Ref=PHILEM_1.10
 3	περὶ	περί	ADP	R-	_	6	case	_	Ref=PHILEM_1.10
@@ -237357,7 +237357,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου
 # sent_id = 31032
-# parallel_id = bible/philem-1-13
+# parallel_id = bible/phlm-1-13
 1	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	Ref=PHILEM_1.13
 2	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=PHILEM_1.13
 3	ἐβουλόμην	βούλομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=PHILEM_1.13
@@ -237378,7 +237378,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον
 # sent_id = 64182
-# parallel_id = bible/philem-1-14
+# parallel_id = bible/phlm-1-14
 1	χωρὶς	χωρίς	ADP	R-	_	5	case	_	Ref=PHILEM_1.14
 2	δὲ	δέ	ADV	Df	_	7	discourse	_	Ref=PHILEM_1.14
 3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Ref=PHILEM_1.14
@@ -237403,7 +237403,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν ἵνα αἰώνιον αὐτὸν ἀπέχῃς οὐκ ἔτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον ἀδελφὸν ἀγαπητόν μάλιστα ἐμοί πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ
 # sent_id = 31033
-# parallel_id = bible/philem-1-15
+# parallel_id = bible/phlm-1-15
 1	τάχα	τάχα	ADV	Df	_	5	advmod	_	Ref=PHILEM_1.15
 2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	Ref=PHILEM_1.15
 3	διὰ	διά	ADP	R-	_	4	case	_	Ref=PHILEM_1.15
@@ -237440,7 +237440,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = εἰ οὖν με ἔχεις κοινωνόν προσλαβοῦ αὐτὸν ὡς ἐμέ
 # sent_id = 31034
-# parallel_id = bible/philem-1-17
+# parallel_id = bible/phlm-1-17
 1	εἰ	εἰ	SCONJ	G-	_	4	mark	_	Ref=PHILEM_1.17
 2	οὖν	οὖν	ADV	Df	_	6	discourse	_	Ref=PHILEM_1.17
 3	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	Ref=PHILEM_1.17
@@ -237454,7 +237454,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει τοῦτο ἐμοὶ ἐλλόγα
 # sent_id = 31035
-# parallel_id = bible/philem-1-18
+# parallel_id = bible/phlm-1-18
 1	εἰ	εἰ	SCONJ	G-	_	4	mark	_	Ref=PHILEM_1.18
 2	δέ	δέ	ADV	Df	_	10	discourse	_	Ref=PHILEM_1.18
 3	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Ref=PHILEM_1.18
@@ -237469,7 +237469,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί
 # sent_id = 31036
-# parallel_id = bible/philem-1-19/part1
+# parallel_id = bible/phlm-1-19/part1
 1	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=PHILEM_1.19
 2	Παῦλος	Παῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=PHILEM_1.19
 3	ἔγραψα	γράφω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
@@ -237480,14 +237480,14 @@
 # source = The Greek New Testament, Philemon 1
 # text = ἐγὼ ἀποτίσω
 # sent_id = 64183
-# parallel_id = bible/philem-1-19/part2
+# parallel_id = bible/phlm-1-19/part2
 1	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Ref=PHILEM_1.19
 2	ἀποτίσω	ἀποτίνω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
 
 # source = The Greek New Testament, Philemon 1
 # text = ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις
 # sent_id = 31037
-# parallel_id = bible/philem-1-19/part3
+# parallel_id = bible/phlm-1-19/part3
 1	ἵνα	ἵνα	SCONJ	G-	_	3	mark	_	Ref=PHILEM_1.19
 2	μὴ	μή	ADV	Df	Polarity=Neg	3	advmod	_	Ref=PHILEM_1.19
 3	λέγω	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
@@ -237501,7 +237501,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ναί ἀδελφέ ἐγώ σου ὀναίμην ἐν κυρίῳ
 # sent_id = 31038
-# parallel_id = bible/philem-1-20/part1
+# parallel_id = bible/phlm-1-20/part1
 1	ναί	ναί	INTJ	I-	_	5	discourse	_	Ref=PHILEM_1.20
 2	ἀδελφέ	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Ref=PHILEM_1.20
 3	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Ref=PHILEM_1.20
@@ -237513,7 +237513,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ
 # sent_id = 31039
-# parallel_id = bible/philem-1-20/part2
+# parallel_id = bible/phlm-1-20/part2
 1	ἀνάπαυσόν	ἀναπαύω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.20
 2	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	Ref=PHILEM_1.20
 3	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	Ref=PHILEM_1.20
@@ -237524,7 +237524,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις
 # sent_id = 31040
-# parallel_id = bible/philem-1-21
+# parallel_id = bible/phlm-1-21
 1	Πεποιθὼς	πείθω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	Ref=PHILEM_1.21
 2	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=PHILEM_1.21
 3	ὑπακοῇ	ὑπακοή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl:arg	_	Ref=PHILEM_1.21
@@ -237542,7 +237542,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν
 # sent_id = 31041
-# parallel_id = bible/philem-1-22/part1
+# parallel_id = bible/phlm-1-22/part1
 1	ἅμα	ἅμα	ADV	Df	_	4	advmod	_	Ref=PHILEM_1.22
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	Ref=PHILEM_1.22
 3	καὶ	καί	CCONJ	C-	_	4	cc	_	Ref=PHILEM_1.22
@@ -237553,7 +237553,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν
 # sent_id = 31042
-# parallel_id = bible/philem-1-22/part2
+# parallel_id = bible/phlm-1-22/part2
 1	ἐλπίζω	ἐλπίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.22
 2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	Ref=PHILEM_1.22
 3	ὅτι	ὅτι	SCONJ	G-	_	8	mark	_	Ref=PHILEM_1.22
@@ -237567,7 +237567,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ Μάρκος Ἀρίσταρχος Δημᾶς Λουκᾶς οἱ συνεργοί μου
 # sent_id = 31043
-# parallel_id = bible/philem-1-23
+# parallel_id = bible/phlm-1-23
 1	Ἀσπάζεταί	ἀσπάζομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=PHILEM_1.23
 2	σε	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	Ref=PHILEM_1.23
 3	Ἐπαφρᾶς	Ἐπαφρᾶς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=PHILEM_1.23
@@ -237588,7 +237588,7 @@
 # source = The Greek New Testament, Philemon 1
 # text = Ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν
 # sent_id = 31044
-# parallel_id = bible/philem-1-25
+# parallel_id = bible/phlm-1-25
 1	Ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Ref=PHILEM_1.25
 2	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Ref=PHILEM_1.25
 3	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	Ref=PHILEM_1.25
