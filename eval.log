@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Ancient_Greek-PROIEL:
-commit 81b96e4acd50bf5fa1fa9bd87074d7c70a42dd9c
+commit 9bd65dfa0dcfcd803aa1aff208d3d2ed76f33199
+Merge: a4ab8d4 ff965a3
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 12:04:55 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'grc_proiel'
 Language code (from CoNLL-U file name) = 'grc'
@@ -44,18 +44,16 @@ Genres: found 2 out of 18 known.
 [Line 2765 Sent 75684]: [L3 SYNTAX too-many-objects] Multiple direct objects [8, 9] ('τάδε', 'αὐτὸν') under the predicate 'εἴρετο'.
 [Line 3044 Sent 65225]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἄχρι οὗ' does not have the 'ExtPos' feature
 [Line 3792 Sent 70041]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 16] ('γνώμην', 'ἀπιγμένα') under the predicate 'ἐκφήνας'.
-[Line 4795 Sent 70585]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'αὐτὸ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 5129 Sent 83402]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'αὐτὸ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 7850 Sent 14791]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἕως ὅτου' does not have the 'ExtPos' feature
-[Line 10323 Sent 20439]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
-[Line 10323 Sent 20439]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
-[Line 10357 Sent 20441]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
-[Line 10357 Sent 20441]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
-[Line 10476 Sent 21173]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἐνενήκοντα ἐννέα' does not have the 'ExtPos' feature
+[Line 7886 Sent 14791]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἕως ὅτου' does not have the 'ExtPos' feature
+[Line 10529 Sent 20439]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
+[Line 10529 Sent 20439]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 10565 Sent 20441]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
+[Line 10565 Sent 20441]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 10692 Sent 21173]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἐνενήκοντα ἐννέα' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
 Warnings: 520
-SYNTAX errors: 6
-*** FAILED *** with 6 errors
+SYNTAX errors: 4
+*** FAILED *** with 4 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
 [Line 16 Sent 64491]: [L3 WARNING pron-det-without-prontype] The word 'τάδε' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -73,25 +71,24 @@ Exit code: 1
 [Line 3282 Sent 65377]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 10] ('παῖδας', 'τρία') under the predicate 'παιδεύουσι'.
 [Line 3376 Sent 65380]: [L3 SYNTAX too-many-objects] Multiple direct objects [29, 34] ('οἰκετέων', 'πάθος') under the predicate 'ἔρδειν'.
 [Line 3982 Sent 70102]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-[Line 5642 Sent 70708]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'αὐτὸ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 5727 Sent 70712]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἐς ὃ' does not have the 'ExtPos' feature
 [Line 6335 Sent 72020]: [L3 SYNTAX leaf-det] 'det' not expected to have children (3:τοιαύτην:det --> 7:εἴρηται:acl)
 [Line 6538 Sent 72030]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἤν τε' does not have the 'ExtPos' feature
-[Line 7086 Sent 14823]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
-[Line 7086 Sent 14823]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
-[Line 7871 Sent 14865]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἤ ἤ' does not have the 'ExtPos' feature
-[Line 7871 Sent 14865]: [L3 WARNING fixed-gap] Gaps in fixed expression [7, 10] 'ἤ * * ἤ'
-[Line 8473 Sent 6796]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 5] ('με', 'θέλῃς') under the predicate 'αἴτησόν'.
-[Line 8496 Sent 57369]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('ὃ', 'με') under the predicate 'αἰτήσῃς'.
-[Line 8766 Sent 6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 21] ('αὐτοὺς', 'πολλά') under the predicate 'διδάσκειν'.
-[Line 11769 Sent 22235]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἴκοσι πέντε' does not have the 'ExtPos' feature
-[Line 11849 Sent 22239]: [L3 SYNTAX leaf-det] 'det' not expected to have children (13:ἄλλο:det --> 17:εἰ:amod)
-[Line 13474 Sent 25174]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἑβδομήκοντα πέντε' does not have the 'ExtPos' feature
-[Line 13536 Sent 25176]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἄχρι οὗ' does not have the 'ExtPos' feature
+[Line 7088 Sent 14823]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἰ μήγε' does not have the 'ExtPos' feature
+[Line 7088 Sent 14823]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] 'εἰ * μήγε'
+[Line 7925 Sent 14865]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἤ ἤ' does not have the 'ExtPos' feature
+[Line 7925 Sent 14865]: [L3 WARNING fixed-gap] Gaps in fixed expression [7, 10] 'ἤ * * ἤ'
+[Line 8563 Sent 6796]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 5] ('με', 'θέλῃς') under the predicate 'αἴτησόν'.
+[Line 8588 Sent 57369]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('ὃ', 'με') under the predicate 'αἰτήσῃς'.
+[Line 8875 Sent 6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 21] ('αὐτοὺς', 'πολλά') under the predicate 'διδάσκειν'.
+[Line 12087 Sent 22235]: [L3 WARNING fixed-without-extpos] Fixed expression 'εἴκοσι πέντε' does not have the 'ExtPos' feature
+[Line 12172 Sent 22239]: [L3 SYNTAX leaf-det] 'det' not expected to have children (13:ἄλλο:det --> 17:εἰ:amod)
+[Line 13905 Sent 25174]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἑβδομήκοντα πέντε' does not have the 'ExtPos' feature
+[Line 13969 Sent 25176]: [L3 WARNING fixed-without-extpos] Fixed expression 'ἄχρι οὗ' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
 Warnings: 529
-SYNTAX errors: 9
-*** FAILED *** with 9 errors
+SYNTAX errors: 8
+*** FAILED *** with 8 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 [Line 8 Sent 64362]: [L3 WARNING pron-det-without-prontype] The word 'ἥδε' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -128,8 +125,8 @@ Exit code: 1
 [Line 28152 Sent 69598]: [L3 SYNTAX leaf-det] 'det' not expected to have children (4:αὐτοῖσι:det --> 7:καὶ:acl)
 ...suppressing further messages regarding ERROR/SYNTAX
 Warnings: 7634
-SYNTAX errors: 108
-*** FAILED *** with 108 errors
+SYNTAX errors: 96
+*** FAILED *** with 96 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
